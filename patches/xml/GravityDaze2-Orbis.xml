@@ -54,7 +54,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)"
               Name="60fps v1.0"
-              Note="illusion&apos;s 60 FPS patch combined with the GNF readiness-check crash fix -- enable this alone for 60fps + stability. KNOWN ISSUE: physics forces/impulses (flight, throws, spin/turn, projectiles) currently run at 2x; movement and animation are correct. See handoff notes."
+              Note="illusion&apos;s 60 FPS patch combined with the GNF readiness-check crash fix -- enable this alone for 60fps + stability. KNOWN ISSUE: physics forces/impulses (flight, throws, spin/turn, projectiles) currently run at 2x; movement and animation are correct."
               Author="Junmin Lee"
               PatchVer="1.0"
               AppVer="01.11"
