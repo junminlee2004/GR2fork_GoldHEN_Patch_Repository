@@ -7,34 +7,7 @@
         <ID>CUSA04935</ID>
         <ID>CUSA04943</ID>
     </TitleID>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Boot with loose files exclusively" Note="Work in Progress, you will not be able to boot game without raw files extracted to `/data/GoldHEN/AFR/(title id)/`!!." Author="illusion" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
-        <PatchList>
-            <Line Type="bytes" Address="0x008501da" Value="2f617070"/>
-            <Line Type="bytes" Address="0x0086c7da" Value="2f617070"/>
-            <Line Type="bytes" Address="0x0086c8b6" Value="2f617070"/>
-            <Line Type="bytes" Address="0x0086cb23" Value="2f617070"/>
-            <Line Type="bytes" Address="0x0086cbdc" Value="2f617070"/>
-            <Line Type="bytes" Address="0x0086cfca" Value="2f617070"/>
-            <Line Type="bytes" Address="0x014ce352" Value="2f617070"/>
-            <Line Type="bytes" Address="0x014e0b7a" Value="2f617070"/>
-            <Line Type="bytes" Address="0x01515f92" Value="2f617070"/>
-            <Line Type="bytes" Address="0x0151caf1" Value="2f617070"/>
-            <Line Type="bytes" Address="0x018ce7de" Value="2f617070"/>
-        </PatchList>
-    </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Remove DLC Requirement for loading save data" Note="Removes CE-33678-7 error message when loading save that used DLC previously." Author="illusion" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
-        <PatchList>
-            <Line Type="bytes" Address="0x0095de96" Value="909090909090"/>
-        </PatchList>
-    </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="30 fps Crash fix (GNF readiness check)" Note="Guards the GNF texture-descriptor validator (eboot 0x1218ca0) so a descriptor lacking the 'GNF ' magic returns gracefully instead of hitting the int 0x41 trap. Standalone stability fix; safe at stock framerate and required for &gt;30fps." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="true">
-        <PatchList>
-            <Line Type="bytes" Address="0x01828b00" Value="4885f6740d813e474e46207505e98e01dfffc3"/>
-            <Line Type="bytes" Address="0x014e0920" Value="e8db813400"/>
-            <Line Type="bytes" Address="0x013e37c3" Value="e838534400"/>
-        </PatchList>
-    </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="60fps v1.0" Note="illusion's 60 FPS patch combined with the GNF readiness-check crash fix -- enable this alone for 60fps + stability. KNOWN ISSUE: physics forces/impulses (flight, throws, spin/turn, projectiles) currently run at 2x; movement and animation are correct." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="60fps v1.1" Note="Unlocks 60 FPS. illusion's 60fps patch plus 11 constants it halved by mistake, restored to fix garbled numbers in the pause-menu announcements. UI animations still run at 2x speed." Author="illusion, Junmin Lee" PatchVer="1.1" AppVer="01.11" AppElf="eboot.bin" isEnabled="true">
         <PatchList>
             <Line Type="bytes" Address="0x00854ac5" Value="c605bc656a0100"/>
             <Line Type="bytes32" Address="0x018c7374" Value="0x41f00000"/>
@@ -128,6 +101,44 @@
             <Line Type="bytes" Address="0x01803153" Value="e82825ffff"/>
             <Line Type="bytes" Address="0x01803158" Value="4989c4"/>
             <Line Type="bytes" Address="0x0180315b" Value="e977859bff"/>
+            <Line Type="bytes" Address="0x01828b00" Value="4885f6740d813e474e46207505e98e01dfffc3"/>
+            <Line Type="bytes" Address="0x014e0920" Value="e8db813400"/>
+            <Line Type="bytes" Address="0x013e37c3" Value="e838534400"/>
+            <Line Type="bytes" Address="0x018c3ab0" Value="8988083d"/>
+            <Line Type="bytes" Address="0x018c3ad0" Value="8988083d"/>
+            <Line Type="bytes" Address="0x018c3ad8" Value="8988083d"/>
+            <Line Type="bytes" Address="0x018c3b10" Value="8988083d"/>
+            <Line Type="bytes" Address="0x018c3b50" Value="8988083d"/>
+            <Line Type="bytes" Address="0x018c3b60" Value="8988083d"/>
+            <Line Type="bytes" Address="0x018c3bd0" Value="8988083d"/>
+            <Line Type="bytes" Address="0x018c3f38" Value="8988083d"/>
+            <Line Type="bytes" Address="0x018c3f40" Value="8988083d"/>
+            <Line Type="bytes" Address="0x018c3f5c" Value="8988083d"/>
+            <Line Type="bytes" Address="0x018c491c" Value="8988083d"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Boot with loose files exclusively" Note="Work in Progress, you will not be able to boot game without raw files extracted to `/data/GoldHEN/AFR/(title id)/`!!." Author="illusion" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x008501da" Value="2f617070"/>
+            <Line Type="bytes" Address="0x0086c7da" Value="2f617070"/>
+            <Line Type="bytes" Address="0x0086c8b6" Value="2f617070"/>
+            <Line Type="bytes" Address="0x0086cb23" Value="2f617070"/>
+            <Line Type="bytes" Address="0x0086cbdc" Value="2f617070"/>
+            <Line Type="bytes" Address="0x0086cfca" Value="2f617070"/>
+            <Line Type="bytes" Address="0x014ce352" Value="2f617070"/>
+            <Line Type="bytes" Address="0x014e0b7a" Value="2f617070"/>
+            <Line Type="bytes" Address="0x01515f92" Value="2f617070"/>
+            <Line Type="bytes" Address="0x0151caf1" Value="2f617070"/>
+            <Line Type="bytes" Address="0x018ce7de" Value="2f617070"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Remove DLC Requirement for loading save data" Note="Removes CE-33678-7 error message when loading save that used DLC previously." Author="illusion" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x0095de96" Value="909090909090"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="30 fps Crash fix (GNF readiness check)" Note="Guards the GNF texture-descriptor validator (eboot 0x1218ca0) so a descriptor lacking the 'GNF ' magic returns gracefully instead of hitting the int 0x41 trap. Standalone stability fix; safe at stock framerate and required for &gt;30fps." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
             <Line Type="bytes" Address="0x01828b00" Value="4885f6740d813e474e46207505e98e01dfffc3"/>
             <Line Type="bytes" Address="0x014e0920" Value="e8db813400"/>
             <Line Type="bytes" Address="0x013e37c3" Value="e838534400"/>
@@ -286,7 +297,7 @@
             <Line Type="bytes32" Address="0x00845f38" Value="0x00000000"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Swap Confirm/Cancel to Western layout (Cross confirms)" Note="Boot-time init picks the confirm and cancel buttons from a region-indexed table; this makes that lookup always take the Americas/Europe branch, so Cross confirms and Circle cancels. Both buttons come from a single pair of globals, so menus, gameplay prompts and on-screen button glyphs all follow. Region, language and text are untouched." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="true">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Swap Confirm/Cancel to Western layout (Cross confirms)" Note="Boot-time init picks the confirm and cancel buttons from a region-indexed table; this makes that lookup always take the Americas/Europe branch, so Cross confirms and Circle cancels. Both buttons come from a single pair of globals, so menus, gameplay prompts and on-screen button glyphs all follow. Region, language and text are untouched." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00846601" Value="eb19"/>
         </PatchList>
