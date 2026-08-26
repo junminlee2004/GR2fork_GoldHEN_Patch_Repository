@@ -336,11 +336,6 @@
             <Line Type="bytes" Address="0x0759e6a" Value="0fb6c88b4730d1e880f9ff7402ffc089473090"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2" Name="Performance: quarter particle density" Note="Leaves every effect a quarter of its particles; enable only one particle-density toggle." Author="junminlee2004" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
-        <PatchList>
-            <Line Type="bytes" Address="0x0759e6a" Value="0fb6c88b4730c1e80280f9ff7402ffc0894730"/>
-        </PatchList>
-    </Metadata>
     <Metadata Title="Gravity Rush 2" Name="Performance: halve FX capacity budget" Note="Halves the effect system's global pools, which also shrinks the per-frame GPU work that is sized from capacity rather than from how much is actually on screen." Author="junminlee2004" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x14ba606" Value="48b80040010000c00000"/>
