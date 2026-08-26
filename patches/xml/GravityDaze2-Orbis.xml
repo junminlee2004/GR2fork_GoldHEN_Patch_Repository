@@ -314,12 +314,6 @@
             <Line Type="bytes" Address="0x10c7e70" Value="e9cb0d7600909090"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2" Name="Performance: minimum pedestrian density (one per spawn point)" Note="Leaves exactly one actor at each spawn point, about 29.5% of stock, without emptying any spawn point; enable only one density toggle." Author="junminlee2004" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
-        <PatchList>
-            <Line Type="bytes" Address="0x1828c80" Value="b80100000083ff010f4ff883fe010f4ff04889bc24a8000000e9daf189ff"/>
-            <Line Type="bytes" Address="0x10c7e70" Value="e90b0e7600909090"/>
-        </PatchList>
-    </Metadata>
     <Metadata Title="Gravity Rush 2" Name="Performance: no ambient crowds at all" Note="Removes every ambient pedestrian, bird and patrol robot, including ones missions rely on - benchmarking and free roam only; enable only one density toggle." Author="junminlee2004" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x10c7e70" Value="e98b050000909090"/>
