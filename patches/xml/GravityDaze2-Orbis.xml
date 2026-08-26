@@ -320,12 +320,6 @@
             <Line Type="bytes" Address="0x10c7e70" Value="e90b0e7600909090"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2" Name="Performance: sparse pedestrians (crowd points only)" Note="Keeps only the busier spawn points, at one actor each (about 12% of stock), which can remove NPCs a side mission expects - free roam only; enable only one density toggle." Author="junminlee2004" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
-        <PatchList>
-            <Line Type="bytes" Address="0x1828cc0" Value="83ff047c17bf01000000be010000004889bc24a8000000e99cf189ffe91ff789ff"/>
-            <Line Type="bytes" Address="0x10c7e70" Value="e94b0e7600909090"/>
-        </PatchList>
-    </Metadata>
     <Metadata Title="Gravity Rush 2" Name="Performance: no ambient crowds at all" Note="Removes every ambient pedestrian, bird and patrol robot, including ones missions rely on - benchmarking and free roam only; enable only one density toggle." Author="junminlee2004" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x10c7e70" Value="e98b050000909090"/>
@@ -363,7 +357,7 @@
             <Line Type="bytes" Address="0x143b99e" Value="e91301000090"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2" Name="Performance: disable background water surfaces" Note="Skips the background water pass for a fill-rate gain; fountain and prop water still draws." Author="junminlee2004" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2" Name="Performance: disable surfaces" Note="Skips more passes" Author="junminlee2004" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x143bbe7" Value="e96d03000090"/>
         </PatchList>
