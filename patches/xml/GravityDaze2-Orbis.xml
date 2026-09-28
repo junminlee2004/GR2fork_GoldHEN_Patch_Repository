@@ -6229,6 +6229,12 @@
             <Line Type="bytes" Address="0x01802e00" Value="4885f6740d813e474e46207505e98e5ee1ffc3"/>
         </PatchList>
     </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Infinite Precious Gems" Note="Precious gems always read 999,999, so every upgrade is affordable and spending never lowers them. Gem changes store 999,999, which is saved with your game." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00961cb0" Value="b83f420f00c3"/>
+            <Line Type="bytes" Address="0x00961fae" Value="bb3f420f009090"/>
+        </PatchList>
+    </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Infinite Gravity Energy" Author="illusion" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00901c26" Value="c5fa10058a68fb00"/>
