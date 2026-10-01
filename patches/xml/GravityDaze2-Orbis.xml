@@ -145,7 +145,8 @@
             <Line Type="bytes" Address="0x0049b7d0" Value="00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/>
             <Line Type="bytes" Address="0x0049b8d0" Value="00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/>
             <Line Type="bytes" Address="0x0049b9d0" Value="000000000000000000000000000000000000f8410000a8410000f0410000a0410000404000000040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000070420000f0420000000000000000000000000000000000000000000000000000000000000000"/>
-            <Line Type="bytes" Address="0x0049bab0" Value="48c1ea246bd228e91c97f500"/>
+            <Line Type="bytes" Address="0x0049bab0" Value="c5f82800c5fa100dec0bae01c5f2590dc0f5a501c4e37904d0aac5ea59dac5ea59d1c5ea59cac5e25cd9c4e37904c8ffc5f259c9c5f258cbc5f251c9c5e8c6d100c5e057dbc5e0c6c2800f867b7b0c01e9c67a0c01"/>
+            <Line Type="bytes" Address="0x0049bb10" Value="48c1ea246bd228e9bc96f500"/>
             <Line Type="bytes" Address="0x0050b9b0" Value="0000803f0000803f0000803f0000803f7f0000007f0000007f0000007f0000001872313f1872313f1872313f1872313ff0fd753ef0fd753ef0fd753ef0fd753e4758633d4758633d4758633d4758633d5b951d3c5b951d3c5b951d3c5b951d3cffc3ae3affc3ae3affc3ae3affc3ae3a89842139898421398984213989842139000000800000008000000080000000806042a20d6042a20d6042a20d6042a20dffff7f00ffff7f00ffff7f00ffff7f000000803f0000803f0000803f0000803fabaaaa3eabaaaa3eabaaaa3eabaaaa3ecdcc4c3ecdcc4c3ecdcc4c3ecdcc4c3e2549123e2549123e2549123e2549123e398ee33d398ee33d398ee33d398ee33d"/>
             <Line Type="bytes" Address="0x0050bab0" Value="3baa38403baa38403baa38403baa384000007a4400350247553502478988083d00401c450000c84200007f4380358247bd3786350000403f00000040ccccccccc5f85c05b8feffffc5f8570530ffffffe811000000c5f85c05a3feffffc5f857051bffffffc3488d6424b8c5f8110c24c5f811542410c5f8115c2420c5f811642430c5f85f0506ffffffc5f172d017c5f1fa0d79feffffc5f9db1501ffffffc5e9eb1509ffffffc5e85c1d51feffffc5e8581549feffffc5e05edac5e059d3c5e8592529ffffffc5d8582511ffffffc5d859e2c5d85825f5feffffc5d859e2c5d85825d9feffffc5d859e2c5d858250dfeffffc5d859e3c5d8592501ffffffc5"/>
             <Line Type="bytes" Address="0x0050bbb0" Value="f85bc9c5d858e1c4e279180d400aa701c5d859e1c4e37908cc00c5d85ce1c5f95bc9c5f1fe0de6fdffffc5f172f117c5d8590539feffffc5f8580521feffffc5f859c4c5f8580505feffffc5f859c4c5f85805e9fdffffc5f859c4c5f85805cdfdffffc5f859c4c5f85805b1fdffffc5f859c4c5f8580585fdffffc5f859c1c5f8100c24c5f810542410c5f8105c2420c5f810642430488d642448c3488d6424b8c5f8110c24c5f811542410c5f8115c2420c5f811642430c5f85f05d0fdffffc5f172d017c5f1fa0d43fdffffc5f9db15cbfdffffc5e9eb15d3fdffffc5e85c1d1bfdffffc5e8581513fdffffc5e05edac5e059d3c5e85925f3fdffffc5d858"/>
@@ -1099,7 +1100,7 @@
             <Line Type="bytes" Address="0x013f5144" Value="c4e371210d627eb80010"/>
             <Line Type="bytes" Address="0x013f5196" Value="e985320aff9090909090"/>
             <Line Type="bytes" Address="0x013f51aa" Value="ba67666666"/>
-            <Line Type="bytes" Address="0x013f51d1" Value="e9da680aff9090"/>
+            <Line Type="bytes" Address="0x013f51d1" Value="e93a690aff9090"/>
             <Line Type="bytes" Address="0x013f51fe" Value="e9bd310aff9090909090"/>
             <Line Type="bytes" Address="0x0143ef81" Value="e83a413c000f1f00"/>
             <Line Type="bytes" Address="0x014e0920" Value="e8db243200"/>
@@ -1113,6 +1114,7 @@
             <Line Type="bytes" Address="0x01560263" Value="c5fa100571cba100"/>
             <Line Type="bytes" Address="0x01560290" Value="e9fbc1fafe90"/>
             <Line Type="bytes" Address="0x015602a5" Value="e926c0fafe9090909090"/>
+            <Line Type="bytes" Address="0x015635c1" Value="e9ea84f3fe9090909090"/>
             <Line Type="bytes" Address="0x01565beb" Value="c5fa5905f971a100"/>
             <Line Type="bytes" Address="0x01568068" Value="c5b2590d8c4da100"/>
             <Line Type="bytes" Address="0x01568301" Value="c5b25905f34aa100"/>
@@ -1290,7 +1292,7 @@
             <Line Type="bytes" Address="0x01c1b3d8" Value="907d9eeb2800f560"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="60fps v3.6" Note="60 FPS with a fixed 1/60 game step: the game slows down if it drops below 60 FPS. Set Vblank frequency to 60. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="3.6" AppVer="01.11" AppElf="eboot.bin" isEnabled="true">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="60fps v3.6" Note="60 FPS with a fixed 1/60 game step: the game slows down if it drops below 60 FPS. Set Vblank frequency to 60. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="3.6" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00496760" Value="a302f701001500001e003200002300004400350000250000370034000027000037004900002700008501d200002e00005901e300003000003c01c7000034000010004000003600005e012901003b00001902aa01003c000024005900003d0000c6020b02003e0000c1035f02004000000302cd01004400004101f500004500009302ac010048000023037302004a0000da009f00004b000042011501004b0000be000401004c00000d01ea000053000013006400005600001d006800005900005901c400005a00007801de00005e00007c00ec00005e00002c035302005e0000a000d500005f000038007b000063000078012901006300001700700000650000"/>
             <Line Type="bytes" Address="0x00496860" Value="1201cc0000680000b100a300006900002f023703006b00000005c003006b00007200aa00006c00009f00a800007000003f03a60200700000e901790100730000a0028102007400000a02f10100750000e302cf02007500002900890000770000d200d10000780000ad036d0200790000f4025c02007a00000a008100007b000037008b00007e0000f9000d01008100001a01270100810000e702270200810000000454030083000080047603008300000f008f00008900001b009300008b000021009b00008c00006600c800008c0000a400c900008c00003103f002008d00003f00a900008e00005600b300008e00004f050603009300001f00aa0000940000"/>
@@ -1428,7 +1430,8 @@
             <Line Type="bytes" Address="0x0049b7d0" Value="00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/>
             <Line Type="bytes" Address="0x0049b8d0" Value="00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/>
             <Line Type="bytes" Address="0x0049b9d0" Value="000000000000000000000000000000000000f8410000a8410000f0410000a0410000404000000040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000070420000f0420000000000000000000000000000000000000000000000000000000000000000"/>
-            <Line Type="bytes" Address="0x0049bad0" Value="48c1ea256bd23ce9fc96f500"/>
+            <Line Type="bytes" Address="0x0049bab0" Value="c5f82800c5fa100dec0bae01c5f2590dc0f5a501c4e37904d0aac5ea59dac5ea59d1c5ea59cac5e25cd9c4e37904c8ffc5f259c9c5f258cbc5f251c9c5e8c6d100c5e057dbc5e0c6c2800f867b7b0c01e9c67a0c01"/>
+            <Line Type="bytes" Address="0x0049bb30" Value="48c1ea256bd23ce99c96f500"/>
             <Line Type="bytes" Address="0x0050b9b0" Value="0000803f0000803f0000803f0000803f7f0000007f0000007f0000007f0000001872313f1872313f1872313f1872313ff0fd753ef0fd753ef0fd753ef0fd753e4758633d4758633d4758633d4758633d5b951d3c5b951d3c5b951d3c5b951d3cffc3ae3affc3ae3affc3ae3affc3ae3a89842139898421398984213989842139000000800000008000000080000000806042a20d6042a20d6042a20d6042a20dffff7f00ffff7f00ffff7f00ffff7f000000803f0000803f0000803f0000803fabaaaa3eabaaaa3eabaaaa3eabaaaa3ecdcc4c3ecdcc4c3ecdcc4c3ecdcc4c3e2549123e2549123e2549123e2549123e398ee33d398ee33d398ee33d398ee33d"/>
             <Line Type="bytes" Address="0x0050bab0" Value="3baa38403baa38403baa38403baa384000007a4400350247553502478988083d00401c450000c84200007f4380358247bd3786350000003f00000040ccccccccc5f85c05b8feffffc5f8570530ffffffe811000000c5f85c05a3feffffc5f857051bffffffc3488d6424b8c5f8110c24c5f811542410c5f8115c2420c5f811642430c5f85f0506ffffffc5f172d017c5f1fa0d79feffffc5f9db1501ffffffc5e9eb1509ffffffc5e85c1d51feffffc5e8581549feffffc5e05edac5e059d3c5e8592529ffffffc5d8582511ffffffc5d859e2c5d85825f5feffffc5d859e2c5d85825d9feffffc5d859e2c5d858250dfeffffc5d859e3c5d8592501ffffffc5"/>
             <Line Type="bytes" Address="0x0050bbb0" Value="f85bc9c5d858e1c4e279180d400aa701c5d859e1c4e37908cc00c5d85ce1c5f95bc9c5f1fe0de6fdffffc5f172f117c5d8590539feffffc5f8580521feffffc5f859c4c5f8580505feffffc5f859c4c5f85805e9fdffffc5f859c4c5f85805cdfdffffc5f859c4c5f85805b1fdffffc5f859c4c5f8580585fdffffc5f859c1c5f8100c24c5f810542410c5f8105c2420c5f810642430488d642448c3488d6424b8c5f8110c24c5f811542410c5f8115c2420c5f811642430c5f85f05d0fdffffc5f172d017c5f1fa0d43fdffffc5f9db15cbfdffffc5e9eb15d3fdffffc5e85c1d1bfdffffc5e8581513fdffffc5e05edac5e059d3c5e85925f3fdffffc5d858"/>
@@ -2382,7 +2385,7 @@
             <Line Type="bytes" Address="0x013f5144" Value="c4e371210d667eb80010"/>
             <Line Type="bytes" Address="0x013f5196" Value="e985320aff9090909090"/>
             <Line Type="bytes" Address="0x013f51aa" Value="ba89888888"/>
-            <Line Type="bytes" Address="0x013f51d1" Value="e9fa680aff9090"/>
+            <Line Type="bytes" Address="0x013f51d1" Value="e95a690aff9090"/>
             <Line Type="bytes" Address="0x013f51fe" Value="e9bd310aff9090909090"/>
             <Line Type="bytes" Address="0x0143ef81" Value="e83a413c000f1f00"/>
             <Line Type="bytes" Address="0x014e0920" Value="e8db243200"/>
@@ -2396,6 +2399,7 @@
             <Line Type="bytes" Address="0x01560263" Value="c5fa100571cba100"/>
             <Line Type="bytes" Address="0x01560290" Value="e9fbc1fafe90"/>
             <Line Type="bytes" Address="0x015602a5" Value="e926c0fafe9090909090"/>
+            <Line Type="bytes" Address="0x015635c1" Value="e9ea84f3fe9090909090"/>
             <Line Type="bytes" Address="0x01565beb" Value="c5fa5905f971a100"/>
             <Line Type="bytes" Address="0x01568068" Value="c5b2590d8c4da100"/>
             <Line Type="bytes" Address="0x01568301" Value="c5b25905f34aa100"/>
@@ -2713,7 +2717,8 @@
             <Line Type="bytes" Address="0x0049b7d0" Value="00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/>
             <Line Type="bytes" Address="0x0049b8d0" Value="00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/>
             <Line Type="bytes" Address="0x0049b9d0" Value="000000000000000000000000000000000000f8410000a8410000f0410000a0410000404000000040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000070420000f0420000000000000000000000000000000000000000000000000000000000000000"/>
-            <Line Type="bytes" Address="0x0049baf0" Value="48c1ea266bd25ae9dc96f500"/>
+            <Line Type="bytes" Address="0x0049bab0" Value="c5f82800c5fa100dec0bae01c5f2590dc0f5a501c4e37904d0aac5ea59dac5ea59d1c5ea59cac5e25cd9c4e37904c8ffc5f259c9c5f258cbc5f251c9c5e8c6d100c5e057dbc5e0c6c2800f867b7b0c01e9c67a0c01"/>
+            <Line Type="bytes" Address="0x0049bb50" Value="48c1ea266bd25ae97c96f500"/>
             <Line Type="bytes" Address="0x0050b9b0" Value="0000803f0000803f0000803f0000803f7f0000007f0000007f0000007f0000001872313f1872313f1872313f1872313ff0fd753ef0fd753ef0fd753ef0fd753e4758633d4758633d4758633d4758633d5b951d3c5b951d3c5b951d3c5b951d3cffc3ae3affc3ae3affc3ae3affc3ae3a89842139898421398984213989842139000000800000008000000080000000806042a20d6042a20d6042a20d6042a20dffff7f00ffff7f00ffff7f00ffff7f000000803f0000803f0000803f0000803fabaaaa3eabaaaa3eabaaaa3eabaaaa3ecdcc4c3ecdcc4c3ecdcc4c3ecdcc4c3e2549123e2549123e2549123e2549123e398ee33d398ee33d398ee33d398ee33d"/>
             <Line Type="bytes" Address="0x0050bab0" Value="3baa38403baa38403baa38403baa384000007a4400350247553502478988083d00401c450000c84200007f4380358247bd378635abaaaa3e00000040ccccccccc5f85c05b8feffffc5f8570530ffffffe811000000c5f85c05a3feffffc5f857051bffffffc3488d6424b8c5f8110c24c5f811542410c5f8115c2420c5f811642430c5f85f0506ffffffc5f172d017c5f1fa0d79feffffc5f9db1501ffffffc5e9eb1509ffffffc5e85c1d51feffffc5e8581549feffffc5e05edac5e059d3c5e8592529ffffffc5d8582511ffffffc5d859e2c5d85825f5feffffc5d859e2c5d85825d9feffffc5d859e2c5d858250dfeffffc5d859e3c5d8592501ffffffc5"/>
             <Line Type="bytes" Address="0x0050bbb0" Value="f85bc9c5d858e1c4e279180d400aa701c5d859e1c4e37908cc00c5d85ce1c5f95bc9c5f1fe0de6fdffffc5f172f117c5d8590539feffffc5f8580521feffffc5f859c4c5f8580505feffffc5f859c4c5f85805e9fdffffc5f859c4c5f85805cdfdffffc5f859c4c5f85805b1fdffffc5f859c4c5f8580585fdffffc5f859c1c5f8100c24c5f810542410c5f8105c2420c5f810642430488d642448c3488d6424b8c5f8110c24c5f811542410c5f8115c2420c5f811642430c5f85f05d0fdffffc5f172d017c5f1fa0d43fdffffc5f9db15cbfdffffc5e9eb15d3fdffffc5e85c1d1bfdffffc5e8581513fdffffc5e05edac5e059d3c5e85925f3fdffffc5d858"/>
@@ -3667,7 +3672,7 @@
             <Line Type="bytes" Address="0x013f5144" Value="c4e371210d6a7eb80010"/>
             <Line Type="bytes" Address="0x013f5196" Value="e985320aff9090909090"/>
             <Line Type="bytes" Address="0x013f51aa" Value="bab7600bb6"/>
-            <Line Type="bytes" Address="0x013f51d1" Value="e91a690aff9090"/>
+            <Line Type="bytes" Address="0x013f51d1" Value="e97a690aff9090"/>
             <Line Type="bytes" Address="0x013f51fe" Value="e9bd310aff9090909090"/>
             <Line Type="bytes" Address="0x0143ef81" Value="e83a413c000f1f00"/>
             <Line Type="bytes" Address="0x014e0920" Value="e8db243200"/>
@@ -3681,6 +3686,7 @@
             <Line Type="bytes" Address="0x01560263" Value="c5fa100571cba100"/>
             <Line Type="bytes" Address="0x01560290" Value="e9fbc1fafe90"/>
             <Line Type="bytes" Address="0x015602a5" Value="e926c0fafe9090909090"/>
+            <Line Type="bytes" Address="0x015635c1" Value="e9ea84f3fe9090909090"/>
             <Line Type="bytes" Address="0x01565beb" Value="c5fa5905f971a100"/>
             <Line Type="bytes" Address="0x01568068" Value="c5b2590d8c4da100"/>
             <Line Type="bytes" Address="0x01568301" Value="c5b25905f34aa100"/>
@@ -3998,7 +4004,8 @@
             <Line Type="bytes" Address="0x0049b7d0" Value="00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/>
             <Line Type="bytes" Address="0x0049b8d0" Value="00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/>
             <Line Type="bytes" Address="0x0049b9d0" Value="000000000000000000000000000000000000f8410000a8410000f0410000a0410000404000000040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000070420000f0420000000000000000000000000000000000000000000000000000000000000000"/>
-            <Line Type="bytes" Address="0x0049bb10" Value="48c1ea266bd278e9bc96f500"/>
+            <Line Type="bytes" Address="0x0049bab0" Value="c5f82800c5fa100dec0bae01c5f2590dc0f5a501c4e37904d0aac5ea59dac5ea59d1c5ea59cac5e25cd9c4e37904c8ffc5f259c9c5f258cbc5f251c9c5e8c6d100c5e057dbc5e0c6c2800f867b7b0c01e9c67a0c01"/>
+            <Line Type="bytes" Address="0x0049bb70" Value="48c1ea266bd278e95c96f500"/>
             <Line Type="bytes" Address="0x0050b9b0" Value="0000803f0000803f0000803f0000803f7f0000007f0000007f0000007f0000001872313f1872313f1872313f1872313ff0fd753ef0fd753ef0fd753ef0fd753e4758633d4758633d4758633d4758633d5b951d3c5b951d3c5b951d3c5b951d3cffc3ae3affc3ae3affc3ae3affc3ae3a89842139898421398984213989842139000000800000008000000080000000806042a20d6042a20d6042a20d6042a20dffff7f00ffff7f00ffff7f00ffff7f000000803f0000803f0000803f0000803fabaaaa3eabaaaa3eabaaaa3eabaaaa3ecdcc4c3ecdcc4c3ecdcc4c3ecdcc4c3e2549123e2549123e2549123e2549123e398ee33d398ee33d398ee33d398ee33d"/>
             <Line Type="bytes" Address="0x0050bab0" Value="3baa38403baa38403baa38403baa384000007a4400350247553502478988083d00401c450000c84200007f4380358247bd3786350000803e00000040ccccccccc5f85c05b8feffffc5f8570530ffffffe811000000c5f85c05a3feffffc5f857051bffffffc3488d6424b8c5f8110c24c5f811542410c5f8115c2420c5f811642430c5f85f0506ffffffc5f172d017c5f1fa0d79feffffc5f9db1501ffffffc5e9eb1509ffffffc5e85c1d51feffffc5e8581549feffffc5e05edac5e059d3c5e8592529ffffffc5d8582511ffffffc5d859e2c5d85825f5feffffc5d859e2c5d85825d9feffffc5d859e2c5d858250dfeffffc5d859e3c5d8592501ffffffc5"/>
             <Line Type="bytes" Address="0x0050bbb0" Value="f85bc9c5d858e1c4e279180d400aa701c5d859e1c4e37908cc00c5d85ce1c5f95bc9c5f1fe0de6fdffffc5f172f117c5d8590539feffffc5f8580521feffffc5f859c4c5f8580505feffffc5f859c4c5f85805e9fdffffc5f859c4c5f85805cdfdffffc5f859c4c5f85805b1fdffffc5f859c4c5f8580585fdffffc5f859c1c5f8100c24c5f810542410c5f8105c2420c5f810642430488d642448c3488d6424b8c5f8110c24c5f811542410c5f8115c2420c5f811642430c5f85f05d0fdffffc5f172d017c5f1fa0d43fdffffc5f9db15cbfdffffc5e9eb15d3fdffffc5e85c1d1bfdffffc5e8581513fdffffc5e05edac5e059d3c5e85925f3fdffffc5d858"/>
@@ -4952,7 +4959,7 @@
             <Line Type="bytes" Address="0x013f5144" Value="c4e371210d6e7eb80010"/>
             <Line Type="bytes" Address="0x013f5196" Value="e985320aff9090909090"/>
             <Line Type="bytes" Address="0x013f51aa" Value="ba89888888"/>
-            <Line Type="bytes" Address="0x013f51d1" Value="e93a690aff9090"/>
+            <Line Type="bytes" Address="0x013f51d1" Value="e99a690aff9090"/>
             <Line Type="bytes" Address="0x013f51fe" Value="e9bd310aff9090909090"/>
             <Line Type="bytes" Address="0x0143ef81" Value="e83a413c000f1f00"/>
             <Line Type="bytes" Address="0x014e0920" Value="e8db243200"/>
@@ -4966,6 +4973,7 @@
             <Line Type="bytes" Address="0x01560263" Value="c5fa100571cba100"/>
             <Line Type="bytes" Address="0x01560290" Value="e9fbc1fafe90"/>
             <Line Type="bytes" Address="0x015602a5" Value="e926c0fafe9090909090"/>
+            <Line Type="bytes" Address="0x015635c1" Value="e9ea84f3fe9090909090"/>
             <Line Type="bytes" Address="0x01565beb" Value="c5fa5905f971a100"/>
             <Line Type="bytes" Address="0x01568068" Value="c5b2590d8c4da100"/>
             <Line Type="bytes" Address="0x01568301" Value="c5b25905f34aa100"/>
@@ -5283,7 +5291,8 @@
             <Line Type="bytes" Address="0x0049b7d0" Value="00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/>
             <Line Type="bytes" Address="0x0049b8d0" Value="00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"/>
             <Line Type="bytes" Address="0x0049b9d0" Value="000000000000000000000000000000000000f8410000a8410000f0410000a0410000404000000040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000070420000f0420000000000000000000000000000000000000000000000000000000000000000"/>
-            <Line Type="bytes" Address="0x0049bb30" Value="48c1ea2569d290000000e99996f500"/>
+            <Line Type="bytes" Address="0x0049bab0" Value="c5f82800c5fa100dec0bae01c5f2590dc0f5a501c4e37904d0aac5ea59dac5ea59d1c5ea59cac5e25cd9c4e37904c8ffc5f259c9c5f258cbc5f251c9c5e8c6d100c5e057dbc5e0c6c2800f867b7b0c01e9c67a0c01"/>
+            <Line Type="bytes" Address="0x0049bb90" Value="48c1ea2569d290000000e93996f500"/>
             <Line Type="bytes" Address="0x0050b9b0" Value="0000803f0000803f0000803f0000803f7f0000007f0000007f0000007f0000001872313f1872313f1872313f1872313ff0fd753ef0fd753ef0fd753ef0fd753e4758633d4758633d4758633d4758633d5b951d3c5b951d3c5b951d3c5b951d3cffc3ae3affc3ae3affc3ae3affc3ae3a89842139898421398984213989842139000000800000008000000080000000806042a20d6042a20d6042a20d6042a20dffff7f00ffff7f00ffff7f00ffff7f000000803f0000803f0000803f0000803fabaaaa3eabaaaa3eabaaaa3eabaaaa3ecdcc4c3ecdcc4c3ecdcc4c3ecdcc4c3e2549123e2549123e2549123e2549123e398ee33d398ee33d398ee33d398ee33d"/>
             <Line Type="bytes" Address="0x0050bab0" Value="3baa38403baa38403baa38403baa384000007a4400350247553502478988083d00401c450000c84200007f4380358247bd3786355555553e00000040ccccccccc5f85c05b8feffffc5f8570530ffffffe811000000c5f85c05a3feffffc5f857051bffffffc3488d6424b8c5f8110c24c5f811542410c5f8115c2420c5f811642430c5f85f0506ffffffc5f172d017c5f1fa0d79feffffc5f9db1501ffffffc5e9eb1509ffffffc5e85c1d51feffffc5e8581549feffffc5e05edac5e059d3c5e8592529ffffffc5d8582511ffffffc5d859e2c5d85825f5feffffc5d859e2c5d85825d9feffffc5d859e2c5d858250dfeffffc5d859e3c5d8592501ffffffc5"/>
             <Line Type="bytes" Address="0x0050bbb0" Value="f85bc9c5d858e1c4e279180d400aa701c5d859e1c4e37908cc00c5d85ce1c5f95bc9c5f1fe0de6fdffffc5f172f117c5d8590539feffffc5f8580521feffffc5f859c4c5f8580505feffffc5f859c4c5f85805e9fdffffc5f859c4c5f85805cdfdffffc5f859c4c5f85805b1fdffffc5f859c4c5f8580585fdffffc5f859c1c5f8100c24c5f810542410c5f8105c2420c5f810642430488d642448c3488d6424b8c5f8110c24c5f811542410c5f8115c2420c5f811642430c5f85f05d0fdffffc5f172d017c5f1fa0d43fdffffc5f9db15cbfdffffc5e9eb15d3fdffffc5e85c1d1bfdffffc5e8581513fdffffc5e05edac5e059d3c5e85925f3fdffffc5d858"/>
@@ -6237,7 +6246,7 @@
             <Line Type="bytes" Address="0x013f5144" Value="c4e371210d727eb80010"/>
             <Line Type="bytes" Address="0x013f5196" Value="e985320aff9090909090"/>
             <Line Type="bytes" Address="0x013f51aa" Value="ba398ee338"/>
-            <Line Type="bytes" Address="0x013f51d1" Value="e95a690aff9090"/>
+            <Line Type="bytes" Address="0x013f51d1" Value="e9ba690aff9090"/>
             <Line Type="bytes" Address="0x013f51fe" Value="e9bd310aff9090909090"/>
             <Line Type="bytes" Address="0x0143ef81" Value="e83a413c000f1f00"/>
             <Line Type="bytes" Address="0x014e0920" Value="e8db243200"/>
@@ -6251,6 +6260,7 @@
             <Line Type="bytes" Address="0x01560263" Value="c5fa100571cba100"/>
             <Line Type="bytes" Address="0x01560290" Value="e9fbc1fafe90"/>
             <Line Type="bytes" Address="0x015602a5" Value="e926c0fafe9090909090"/>
+            <Line Type="bytes" Address="0x015635c1" Value="e9ea84f3fe9090909090"/>
             <Line Type="bytes" Address="0x01565beb" Value="c5fa5905f971a100"/>
             <Line Type="bytes" Address="0x01568068" Value="c5b2590d8c4da100"/>
             <Line Type="bytes" Address="0x01568301" Value="c5b25905f34aa100"/>
@@ -6448,7 +6458,7 @@
             <Line Type="bytes" Address="0x0095de96" Value="909090909090"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="30 fps Crash fix (GNF readiness check)" Note="Stops a random crash: the GNF texture-descriptor validator returns instead of trapping when a descriptor is null or lacks the 'GNF ' magic. Same guard the FPS patches include, so it is safe to leave on with them." Author="Junmin Lee" PatchVer="2.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="30 fps Crash fix (GNF readiness check)" Note="Stops a random crash: the GNF texture-descriptor validator returns instead of trapping when a descriptor is null or lacks the &apos;GNF &apos; magic. Same guard the FPS patches include, so it is safe to leave on with them." Author="Junmin Lee" PatchVer="2.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="true">
         <PatchList>
             <Line Type="bytes" Address="0x013e37c3" Value="e838f64100"/>
             <Line Type="bytes" Address="0x014e0920" Value="e8db243200"/>
@@ -6461,18 +6471,36 @@
             <Line Type="bytes" Address="0x00961fae" Value="bb3f420f009090"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Shifter 1.0 costume -&gt; Queen Alua" Note="Selecting the Shifter 1.0 costume loads Queen Alua (Kat's kit04 outfit) instead. The save keeps Shifter 1.0. With the Raven toggle also on, the later toggle in the list wins." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Shifter 1.0 costume -&gt; Queen Alua" Note="Selecting the Shifter 1.0 costume loads Queen Alua (Kat&apos;s kit04 outfit) instead. The save keeps Shifter 1.0. With another Shifter 1.0 toggle also on, the later toggle in the list wins." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x013a978c" Value="e9ef630fff9090"/>
             <Line Type="bytes" Address="0x0049fb80" Value="813b6b6974310f851b000000807b04300f8511000000807b05000f8507000000488d1d0c000000488d3d52257e01e9e09bf0006b6974303400"/>
             <Line Type="bytes" Address="0x0124d150" Value="31d24c89e7"/>
+            <Line Type="bytes" Address="0x01536193" Value="be895617044c89ff4889dae8cdd30e00"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Shifter 1.0 costume -&gt; Raven" Note="Selecting the Shifter 1.0 costume plays as Raven (main story model, her crow as companion). The save stores Raven. With the Queen Alua toggle also on, the later toggle in the list wins." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="true">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Shifter 1.0 costume -&gt; Raven" Note="Selecting the Shifter 1.0 costume plays as Raven (main story model, her crow as companion). The save stores Raven: saving while wearing it locks upgrades and the camera after a reload, so switch costumes before saving. With another Shifter 1.0 toggle also on, the later toggle in the list wins." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x0124d150" Value="e9ab2825ff"/>
             <Line Type="bytes" Address="0x0049fa00" Value="4885db0f842e000000813b6b6974310f8522000000807b04300f8518000000807b05000f850e000000488d1d11000000488d050a00000031d24c89e7e914d7da0063726f303100"/>
             <Line Type="bytes" Address="0x013a978c" Value="488d3d6d898d00"/>
+            <Line Type="bytes" Address="0x01536193" Value="be895617044c89ff4889dae8cdd30e00"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Shifter 1.0 costume -&gt; The Other" Note="Selecting the Shifter 1.0 costume loads The Other (oth01, Kat&apos;s moveset) instead. The save keeps Shifter 1.0. With another Shifter 1.0 toggle also on, the later toggle in the list wins." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x013a978c" Value="e9ef620fff9090"/>
+            <Line Type="bytes" Address="0x0049fa80" Value="813b6b6974310f851b000000807b04300f8511000000807b05000f8507000000488d1d0c000000488d3d52267e01e9e09cf0006f7468303100"/>
+            <Line Type="bytes" Address="0x0124d150" Value="31d24c89e7"/>
+            <Line Type="bytes" Address="0x01536193" Value="be895617044c89ff4889dae8cdd30e00"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Shifter 1.0 costume -&gt; Elektricitie" Note="Selecting the Shifter 1.0 costume shows Elektricitie&apos;s model (ele01) with Kat&apos;s moveset. The save keeps Shifter 1.0. UNTESTED: an NPC model on the player rig. With another Shifter 1.0 toggle also on, the later toggle in the list wins." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x01536193" Value="e94899f6fe9090909090909090909090"/>
+            <Line Type="bytes" Address="0x0049fae0" Value="813b6b6974310f8532000000817b04305f62610f8525000000807b08730f851b000000807b09650f8511000000807b0a000f8507000000488d1d28000000be895617044c89ff4889dae8423a1801488d0d110000004839cb0f85030000004889d8e95d660901656c6530315f6261736500"/>
+            <Line Type="bytes" Address="0x013a978c" Value="488d3d6d898d00"/>
+            <Line Type="bytes" Address="0x0124d150" Value="31d24c89e7"/>
         </PatchList>
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Infinite Gravity Energy" Author="illusion" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
@@ -6628,7 +6656,7 @@
             <Line Type="bytes32" Address="0x00845f38" Value="0x00000000"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Swap Confirm/Cancel to Western layout (Cross confirms)" Note="Boot-time init picks the confirm and cancel buttons from a region-indexed table; this makes that lookup always take the Americas/Europe branch, so Cross confirms and Circle cancels. Both buttons come from a single pair of globals, so menus, gameplay prompts and on-screen button glyphs all follow. Region, language and text are untouched." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Swap Confirm/Cancel to Western layout (Cross confirms)" Note="Boot-time init picks the confirm and cancel buttons from a region-indexed table; this makes that lookup always take the Americas/Europe branch, so Cross confirms and Circle cancels. Both buttons come from a single pair of globals, so menus, gameplay prompts and on-screen button glyphs all follow. Region, language and text are untouched." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="true">
         <PatchList>
             <Line Type="bytes" Address="0x00846601" Value="eb19"/>
         </PatchList>
@@ -6680,6 +6708,1294 @@
     <Metadata Title="Gravity Rush 2" Name="Performance: disable surfaces" Note="Skips more passes" Author="junminlee2004" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x143bbe7" Value="e96d03000090"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 1280x720 (720p, 16:9)" Note="UNTESTED in game; PS4 console support UNVERIFIED. Pins the game 4K-output flag to 0 (PS4 Pro 4K path off). Keep the emulator PS4 Pro mode off: with it on, two UI layers render at twice the target size. Turn the GR2fork resolution and aspect overrides Off when this is enabled. Renders and outputs 1280x720. Enable only one Resolution, Ultrawide or 16:10 toggle; it may be combined with one Aspect anamorphic toggle. Set the emulator window to a 16:9 size. Text uses the game PS4 Pro text mode (glyphs at 2x)." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="d00266b9d00266be000566ba0005"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="0000a044c7048200003444"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="0005000069c8d0020000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="0005000069c8d0020000"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="0005000041be00050000b9d0020000bbd0020000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="40010000b9b4000000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="40010000b9b4000000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="40010000b9b4000000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="40010000b9b4000000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000a04441c7462400003444"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000a04443c7443e1c00003444"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="00050000b9d00200004531c04531c941c787c09200000005000041c787c4920000d0020000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="40010000b9b4000000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="40010000b9b4000000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="40010000b9b4000000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="40010000b9b4000000"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="0000a044c7048200003444"/>
+            <Line Type="bytes" Address="0x01888a20" Value="0000a0440000b4430000803f00000000000000000000b4430000803f0000000000002044000000000000803f000000000000204400003444"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0000a04400003444cdcc4c3a610bb63a"/>
+            <Line Type="bytes" Address="0x018b975c" Value="000020440000b4430000a04400003444"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="000020440000b4430000a04400003444"/>
+            <Line Type="bytes" Address="0x018c1388" Value="000020440000b4430000a04400003444"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000a0440000a04400003444000034440000a0440000a0440000344400003444"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 1600x900 (900p, 16:9)" Note="UNTESTED in game; PS4 console support UNVERIFIED. Pins the game 4K-output flag to 0 (PS4 Pro 4K path off). Keep the emulator PS4 Pro mode off: with it on, two UI layers render at twice the target size. Turn the GR2fork resolution and aspect overrides Off when this is enabled. Renders and outputs 1600x900. Enable only one Resolution, Ultrawide or 16:10 toggle; it may be combined with one Aspect anamorphic toggle. Set the emulator window to a 16:9 size. Text uses the game PS4 Pro text mode (glyphs at 2x)." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="840366b9840366be400666ba4006"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="0000c844c7048200006144"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="4006000069c884030000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="4006000069c884030000"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="4006000041be40060000b984030000bb84030000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="90010000b9e1000000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="90010000b9e1000000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="90010000b9e1000000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="90010000b9e1000000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000c84441c7462400006144"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000c84443c7443e1c00006144"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="40060000b9840300004531c04531c941c787c09200004006000041c787c492000084030000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="90010000b9e1000000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="90010000b9e1000000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="90010000b9e1000000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="90010000b9e1000000"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="0000c844c7048200006144"/>
+            <Line Type="bytes" Address="0x01888a20" Value="0000c8440000e1430000803f00000000000000000000e1430000803f0000000000004844000000000000803f000000000000484400006144"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0000c844000061440ad7233ab4a2913a"/>
+            <Line Type="bytes" Address="0x018b975c" Value="000048440000e1430000c84400006144"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="000048440000e1430000c84400006144"/>
+            <Line Type="bytes" Address="0x018c1388" Value="000048440000e1430000c84400006144"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000c8440000c84400006144000061440000c8440000c8440000614400006144"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 2560x1440 (1440p, 16:9)" Note="UNTESTED in game; PS4 console support UNVERIFIED. Pins the game 4K-output flag to 0 (PS4 Pro 4K path off). Keep the emulator PS4 Pro mode off: with it on, two UI layers render at twice the target size. Turn the GR2fork resolution and aspect overrides Off when this is enabled. Renders and outputs 2560x1440. Enable only one Resolution, Ultrawide or 16:10 toggle; it may be combined with one Aspect anamorphic toggle. Set the emulator window to a 16:9 size. Text uses the game PS4 Pro text mode (glyphs at 2x)." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="a00566b9a00566be000a66ba000a"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00002045c704820000b444"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="000a000069c8a0050000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="000a000069c8a0050000"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="000a000041be000a0000b9a0050000bba0050000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="80020000b968010000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="80020000b968010000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="80020000b968010000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="80020000b968010000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000204541c746240000b444"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000204543c7443e1c0000b444"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="000a0000b9a00500004531c04531c941c787c0920000000a000041c787c4920000a0050000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="80020000b968010000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="80020000b968010000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="80020000b968010000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="80020000b968010000"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00002045c704820000b444"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00002045000034440000803f0000000000000000000034440000803f000000000000a044000000000000803f000000000000a0440000b444"/>
+            <Line Type="bytes" Address="0x0189e630" Value="000020450000b444cdcccc39610b363a"/>
+            <Line Type="bytes" Address="0x018b975c" Value="0000a04400003444000020450000b444"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="0000a04400003444000020450000b444"/>
+            <Line Type="bytes" Address="0x018c1388" Value="0000a04400003444000020450000b444"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="00002045000020450000b4440000b44400002045000020450000b4440000b444"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 3840x2160 (2160p, 16:9)" Note="UNTESTED in game; PS4 console support UNVERIFIED. Pins the game 4K-output flag to 0 (PS4 Pro 4K path off). Keep the emulator PS4 Pro mode off: with it on, two UI layers render at twice the target size. Turn the GR2fork resolution and aspect overrides Off when this is enabled. Renders and outputs 3840x2160. Enable only one Resolution, Ultrawide or 16:10 toggle; it may be combined with one Aspect anamorphic toggle. Set the emulator window to a 16:9 size. Text uses the game PS4 Pro text mode (glyphs at 2x)." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="700866b9700866be000f66ba000f"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00007045c7048200000745"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="000f000069c870080000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="000f000069c870080000"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="000f000041be000f0000b970080000bb70080000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="c0030000b91c020000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="c0030000b91c020000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="c0030000b91c020000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="c0030000b91c020000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000704541c7462400000745"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000704543c7443e1c00000745"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="000f0000b9700800004531c04531c941c787c0920000000f000041c787c492000070080000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="c0030000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="c0030000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="c0030000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="c0030000b91c020000"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00007045c7048200000745"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00007045000087440000803f0000000000000000000087440000803f000000000000f044000000000000803f000000000000f04400000745"/>
+            <Line Type="bytes" Address="0x0189e630" Value="000070450000074589888839d6b9f239"/>
+            <Line Type="bytes" Address="0x018b975c" Value="0000f044000087440000704500000745"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="0000f044000087440000704500000745"/>
+            <Line Type="bytes" Address="0x018c1388" Value="0000f044000087440000704500000745"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000704500007045000007450000074500007045000070450000074500000745"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 5120x2880 (5K, 16:9)" Note="UNTESTED in game. Renders and outputs 5120x2880. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Enable only one Resolution, Ultrawide or 16:10 toggle. Set the emulator window to a 16:9 size. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 6 GB: set extra_dmem_in_mbytes to 4096 under General in the emulator config.json. Very heavy: every screen-sized render target is 7.1x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="400b66b9400b66be001466ba0014"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="0000a045c7048200003445"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="0014000069c8400b0000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="0014000069c8400b0000"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="0014000041be00140000b9400b0000bb400b0000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="00050000b9d0020000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="00050000b9d0020000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="00050000b9d0020000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="00050000b9d0020000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000a04541c7462400003445"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000a04543c7443e1c00003445"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="00140000b9400b00004531c04531c941c787c09200000014000041c787c4920000400b0000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="00050000b9d0020000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="00050000b9d0020000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="00050000b9d0020000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="00050000b9d0020000"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="0000a045c7048200003445"/>
+            <Line Type="bytes" Address="0x0183e088" Value="0000008001000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="0000a0450000b4440000803f00000000000000000000b4440000803f0000000000002045000000000000803f000000000000204500003445"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0000a04500003445cdcc4c39610bb639"/>
+            <Line Type="bytes" Address="0x018b975c" Value="000020450000b4440000a04500003445"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="000020450000b4440000a04500003445"/>
+            <Line Type="bytes" Address="0x018c1388" Value="000020450000b4440000a04500003445"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000a0450000a04500003445000034450000a0450000a0450000344500003445"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 968x544 (544p, 16:9)" Note="UNTESTED in game. Renders and outputs 968x544. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Enable only one Resolution, Ultrawide or 16:10 toggle. Set the emulator window to a 16:9 size. Text uses the game PS4 Pro text mode (glyphs at 2x)." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="200266b9200266bec80366bac803"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00007244c7048200000844"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="c803000069c820020000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="c803000069c820020000"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="c803000041bec8030000b920020000bb20020000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="f2000000b988000000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="f2000000b988000000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="f2000000b988000000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="f2000000b988000000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000724441c7462400000844"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000724443c7443e1c00000844"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="c8030000b9200200004531c04531c941c787c0920000c803000041c787c492000020020000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="f2000000b988000000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="f2000000b988000000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="f2000000b988000000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="f2000000b988000000"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00007244c7048200000844"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00007244000088430000803f0000000000000000000088430000803f000000000000f243000000000000803f000000000000f24300000844"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0000724400000844ab67873af1f0f03a"/>
+            <Line Type="bytes" Address="0x018b975c" Value="0000f243000088430000724400000844"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="0000f243000088430000724400000844"/>
+            <Line Type="bytes" Address="0x018c1388" Value="0000f243000088430000724400000844"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000724400007244000008440000084400007244000072440000084400000844"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 7680x4320 (8K, 16:9)" Note="UNTESTED in game. Renders and outputs 7680x4320. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Enable only one Resolution, Ultrawide or 16:10 toggle. Set the emulator window to a 16:9 size. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 8 GB: set extra_dmem_in_mbytes to 6144 under General in the emulator config.json. Very heavy: every screen-sized render target is 16.0x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="e01066b9e01066be001e66ba001e"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="0000f045c7048200008745"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="001e000069c8e0100000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="001e000069c8e0100000"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="001e000041be001e0000b9e0100000bbe0100000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="80070000b938040000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="80070000b938040000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="80070000b938040000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="80070000b938040000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000f04541c7462400008745"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000f04543c7443e1c00008745"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="001e0000b9e01000004531c04531c941c787c0920000001e000041c787c4920000e0100000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="80070000b938040000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="80070000b938040000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="80070000b938040000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="80070000b938040000"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="0000f045c7048200008745"/>
+            <Line Type="bytes" Address="0x0183e088" Value="0000000002000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="0000f045000007450000803f0000000000000000000007450000803f0000000000007045000000000000803f000000000000704500008745"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0000f0450000874589880839d6b97239"/>
+            <Line Type="bytes" Address="0x018b975c" Value="00007045000007450000f04500008745"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="00007045000007450000f04500008745"/>
+            <Line Type="bytes" Address="0x018c1388" Value="00007045000007450000f04500008745"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000f0450000f04500008745000087450000f0450000f0450000874500008745"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:9 (7:3) 2520x1080" Note="UNTESTED in game; PS4 console support UNVERIFIED. Pins the game 4K-output flag to 0 (PS4 Pro 4K path off). Keep the emulator PS4 Pro mode off: with it on, two UI layers render at twice the target size. Turn the GR2fork resolution and aspect overrides Off when this is enabled. Self-contained: resolution lines at 2520x1080 plus the 45 aspect constants set to 21:9, for exact 7:3 screens. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x)." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="380466b9380466bed80966bad809"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00801d45c7048200008744"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="55551540"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="d809000069c838040000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="d809000069c838040000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="55551540"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="d809000041bed8090000b938040000bb38040000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="76020000b90e010000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="76020000b90e010000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="76020000b90e010000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="76020000b90e010000"/>
+            <Line Type="bytes" Address="0x013de098" Value="00801d4541c7462400008744"/>
+            <Line Type="bytes" Address="0x013de146" Value="00801d4543c7443e1c00008744"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="d8090000b9380400004531c04531c941c787c0920000d809000041c787c492000038040000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="76020000b90e010000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="76020000b90e010000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="76020000b90e010000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="76020000b90e010000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="55551540"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="55551540"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="55551540"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00801d45c7048200008744"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00801d45000007440000803f0000000000000000000007440000803f0000000000809d44000000000000803f0000000000809d4400008744"/>
+            <Line Type="bytes" Address="0x01896d30" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x01897960" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189b080" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189b990" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189e630" Value="00801d4500008744010dd039d6b9723a"/>
+            <Line Type="bytes" Address="0x018a1130" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x018b975c" Value="00809d440000074400801d4500008744"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="00809d440000074400801d4500008744"/>
+            <Line Type="bytes" Address="0x018c1388" Value="00809d440000074400801d4500008744"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3098" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3168" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3198" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3260" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c365c" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3714" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c375c" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="00801d4500801d45000087440000874400801d4500801d450000874400008744"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:9 (7:3) 3360x1440" Note="UNTESTED in game; PS4 console support UNVERIFIED. Pins the game 4K-output flag to 0 (PS4 Pro 4K path off). Keep the emulator PS4 Pro mode off: with it on, two UI layers render at twice the target size. Turn the GR2fork resolution and aspect overrides Off when this is enabled. Self-contained: resolution lines at 3360x1440 plus the 45 aspect constants set to 21:9, for exact 7:3 screens. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x)." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="a00566b9a00566be200d66ba200d"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00005245c704820000b444"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="55551540"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="200d000069c8a0050000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="200d000069c8a0050000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="55551540"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="200d000041be200d0000b9a0050000bba0050000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="48030000b968010000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="48030000b968010000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="48030000b968010000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="48030000b968010000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000524541c746240000b444"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000524543c7443e1c0000b444"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="200d0000b9a00500004531c04531c941c787c0920000200d000041c787c4920000a0050000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="48030000b968010000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="48030000b968010000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="48030000b968010000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="48030000b968010000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="55551540"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="55551540"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="55551540"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00005245c704820000b444"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00005245000034440000803f0000000000000000000034440000803f000000000000d244000000000000803f000000000000d2440000b444"/>
+            <Line Type="bytes" Address="0x01896d30" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x01897960" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189b080" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189b990" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189e630" Value="000052450000b444c1099c39610b363a"/>
+            <Line Type="bytes" Address="0x018a1130" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x018b975c" Value="0000d24400003444000052450000b444"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="0000d24400003444000052450000b444"/>
+            <Line Type="bytes" Address="0x018c1388" Value="0000d24400003444000052450000b444"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3098" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3168" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3198" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3260" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c365c" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3714" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c375c" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="00005245000052450000b4440000b44400005245000052450000b4440000b444"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 2.39:1 2584x1080" Note="UNTESTED in game; PS4 console support UNVERIFIED. Pins the game 4K-output flag to 0 (PS4 Pro 4K path off). Keep the emulator PS4 Pro mode off: with it on, two UI layers render at twice the target size. Turn the GR2fork resolution and aspect overrides Off when this is enabled. Self-contained: resolution lines at 2584x1080 plus the 45 aspect constants set to 2.39:1, for 2560x1080 screens (the fork picks 2.39:1 there). Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x)." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="380466b9380466be180a66ba180a"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00802145c7048200008744"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="180a000069c838040000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="180a000069c838040000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="180a000041be180a0000b938040000bb38040000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="86020000b90e010000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="86020000b90e010000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="86020000b90e010000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="86020000b90e010000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0080214541c7462400008744"/>
+            <Line Type="bytes" Address="0x013de146" Value="0080214543c7443e1c00008744"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="180a0000b9380400004531c04531c941c787c0920000180a000041c787c492000038040000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="86020000b90e010000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="86020000b90e010000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="86020000b90e010000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="86020000b90e010000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00802145c7048200008744"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00802145000007440000803f0000000000000000000007440000803f000000000080a144000000000000803f000000000080a14400008744"/>
+            <Line Type="bytes" Address="0x01896d30" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x01897960" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189b080" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189b990" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0080214500008744d8e5ca39d6b9723a"/>
+            <Line Type="bytes" Address="0x018a1130" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x018b975c" Value="0080a144000007440080214500008744"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="0080a144000007440080214500008744"/>
+            <Line Type="bytes" Address="0x018c1388" Value="0080a144000007440080214500008744"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3098" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3168" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3198" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3260" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c365c" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3714" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c375c" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0080214500802145000087440000874400802145008021450000874400008744"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 2.39:1 3440x1440" Note="UNTESTED in game; PS4 console support UNVERIFIED. Pins the game 4K-output flag to 0 (PS4 Pro 4K path off). Keep the emulator PS4 Pro mode off: with it on, two UI layers render at twice the target size. Turn the GR2fork resolution and aspect overrides Off when this is enabled. Self-contained: resolution lines at 3440x1440 plus the 45 aspect constants set to 2.39:1, for 3440x1440 screens (the fork picks 2.39:1 there). Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x)." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="a00566b9a00566be700d66ba700d"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00005745c704820000b444"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="700d000069c8a0050000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="700d000069c8a0050000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="700d000041be700d0000b9a0050000bba0050000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="5c030000b968010000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="5c030000b968010000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="5c030000b968010000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="5c030000b968010000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000574541c746240000b444"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000574543c7443e1c0000b444"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="700d0000b9a00500004531c04531c941c787c0920000700d000041c787c4920000a0050000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="5c030000b968010000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="5c030000b968010000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="5c030000b968010000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="5c030000b968010000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00005745c704820000b444"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00005745000034440000803f0000000000000000000034440000803f000000000000d744000000000000803f000000000000d7440000b444"/>
+            <Line Type="bytes" Address="0x01896d30" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x01897960" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189b080" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189b990" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189e630" Value="000057450000b444c8689839610b363a"/>
+            <Line Type="bytes" Address="0x018a1130" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x018b975c" Value="0000d74400003444000057450000b444"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="0000d74400003444000057450000b444"/>
+            <Line Type="bytes" Address="0x018c1388" Value="0000d74400003444000057450000b444"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3098" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3168" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3198" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3260" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c365c" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3714" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c375c" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="00005745000057450000b4440000b44400005745000057450000b4440000b444"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="16:10 1920x1200" Note="UNTESTED in game; PS4 console support UNVERIFIED. Pins the game 4K-output flag to 0 (PS4 Pro 4K path off). Keep the emulator PS4 Pro mode off: with it on, two UI layers render at twice the target size. Turn the GR2fork resolution and aspect overrides Off when this is enabled. Self-contained: resolution lines at 1920x1200 plus the 45 aspect constants set to 16:10, for 16:10 screens. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x)." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="b00466b9b00466be800766ba8007"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="0000f044c7048200009644"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="8007000069c8b0040000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="8007000069c8b0040000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="8007000041be80070000b9b0040000bbb0040000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="e0010000b92c010000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="e0010000b92c010000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="e0010000b92c010000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="e0010000b92c010000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000f04441c7462400009644"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000f04443c7443e1c00009644"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="80070000b9b00400004531c04531c941c787c09200008007000041c787c4920000b0040000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="e0010000b92c010000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="e0010000b92c010000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="e0010000b92c010000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="e0010000b92c010000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="0000f044c7048200009644"/>
+            <Line Type="bytes" Address="0x01888a20" Value="0000f044000016440000803f0000000000000000000016440000803f0000000000007044000000000000803f000000000000704400009644"/>
+            <Line Type="bytes" Address="0x01896d30" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x01897960" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189b080" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189b990" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0000f044000096448988083a0e745a3a"/>
+            <Line Type="bytes" Address="0x018a1130" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x018b975c" Value="00007044000016440000f04400009644"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="00007044000016440000f04400009644"/>
+            <Line Type="bytes" Address="0x018c1388" Value="00007044000016440000f04400009644"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3098" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3168" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3198" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3260" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c365c" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3714" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c375c" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000f0440000f04400009644000096440000f0440000f0440000964400009644"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="16:10 2560x1600" Note="UNTESTED in game; PS4 console support UNVERIFIED. Pins the game 4K-output flag to 0 (PS4 Pro 4K path off). Keep the emulator PS4 Pro mode off: with it on, two UI layers render at twice the target size. Turn the GR2fork resolution and aspect overrides Off when this is enabled. Self-contained: resolution lines at 2560x1600 plus the 45 aspect constants set to 16:10, for 16:10 screens. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x)." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="400666b9400666be000a66ba000a"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00002045c704820000c844"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="000a000069c840060000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="000a000069c840060000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="000a000041be000a0000b940060000bb40060000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="80020000b990010000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="80020000b990010000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="80020000b990010000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="80020000b990010000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000204541c746240000c844"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000204543c7443e1c0000c844"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="000a0000b9400600004531c04531c941c787c0920000000a000041c787c492000040060000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="80020000b990010000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="80020000b990010000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="80020000b990010000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="80020000b990010000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00002045c704820000c844"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00002045000048440000803f0000000000000000000048440000803f000000000000a044000000000000803f000000000000a0440000c844"/>
+            <Line Type="bytes" Address="0x01896d30" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x01897960" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189b080" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189b990" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189e630" Value="000020450000c844cdcccc390ad7233a"/>
+            <Line Type="bytes" Address="0x018a1130" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x018b975c" Value="0000a04400004844000020450000c844"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="0000a04400004844000020450000c844"/>
+            <Line Type="bytes" Address="0x018c1388" Value="0000a04400004844000020450000c844"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3098" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3168" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3198" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3260" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c365c" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3714" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c375c" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="00002045000020450000c8440000c84400002045000020450000c8440000c844"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:9 3840x1080" Note="UNTESTED in game; PS4 console support UNVERIFIED. Pins the game 4K-output flag to 0 (PS4 Pro 4K path off). Keep the emulator PS4 Pro mode off: with it on, two UI layers render at twice the target size. Turn the GR2fork resolution and aspect overrides Off when this is enabled. Self-contained: resolution lines at 3840x1080 plus the 45 aspect constants set to 32:9, for 32:9 screens. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x)." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="380466b9380466be000f66ba000f"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00007045c7048200008744"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="398e6340"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="000f000069c838040000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="000f000069c838040000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="398e6340"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="000f000041be000f0000b938040000bb38040000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="c0030000b90e010000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="c0030000b90e010000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="c0030000b90e010000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="c0030000b90e010000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000704541c7462400008744"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000704543c7443e1c00008744"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="000f0000b9380400004531c04531c941c787c0920000000f000041c787c492000038040000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="c0030000b90e010000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="c0030000b90e010000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="c0030000b90e010000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="c0030000b90e010000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="398e6340"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="398e6340"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="398e6340"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00007045c7048200008744"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00007045000007440000803f0000000000000000000007440000803f000000000000f044000000000000803f000000000000f04400008744"/>
+            <Line Type="bytes" Address="0x01896d30" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x01897960" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189b080" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189b990" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189e630" Value="000070450000874489888839d6b9723a"/>
+            <Line Type="bytes" Address="0x018a1130" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x018b975c" Value="0000f044000007440000704500008744"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="0000f044000007440000704500008744"/>
+            <Line Type="bytes" Address="0x018c1388" Value="0000f044000007440000704500008744"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3098" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3168" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3198" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3260" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c365c" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3714" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c375c" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000704500007045000087440000874400007045000070450000874400008744"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:9 (7:3) 5040x2160 (4K)" Note="UNTESTED in game. Renders and outputs 5040x2160 with the 45 aspect constants set to 21:9. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 5 GB: set extra_dmem_in_mbytes to 3072 under General in the emulator config.json. Very heavy: every screen-sized render target is 5.2x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="700866b9700866beb01366bab013"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00809d45c7048200000745"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="55551540"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="b013000069c870080000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="b013000069c870080000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="55551540"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="b013000041beb0130000b970080000bb70080000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="ec040000b91c020000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="ec040000b91c020000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="ec040000b91c020000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="ec040000b91c020000"/>
+            <Line Type="bytes" Address="0x013de098" Value="00809d4541c7462400000745"/>
+            <Line Type="bytes" Address="0x013de146" Value="00809d4543c7443e1c00000745"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="b0130000b9700800004531c04531c941c787c0920000b013000041c787c492000070080000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="ec040000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="ec040000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="ec040000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="ec040000b91c020000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="55551540"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="55551540"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="55551540"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00809d45c7048200000745"/>
+            <Line Type="bytes" Address="0x0183e088" Value="0000004001000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00809d45000087440000803f0000000000000000000087440000803f0000000000801d45000000000000803f0000000000801d4500000745"/>
+            <Line Type="bytes" Address="0x01896d30" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x01897960" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189b080" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189b990" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189e630" Value="00809d4500000745010d5039d6b9f239"/>
+            <Line Type="bytes" Address="0x018a1130" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x018b975c" Value="00801d450000874400809d4500000745"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="00801d450000874400809d4500000745"/>
+            <Line Type="bytes" Address="0x018c1388" Value="00801d450000874400809d4500000745"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3098" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3168" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3198" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3260" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c365c" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3714" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c375c" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="00809d4500809d45000007450000074500809d4500809d450000074500000745"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:9 (7:3) 10080x4320 (8K)" Note="UNTESTED in game. Renders and outputs 10080x4320 with the 45 aspect constants set to 21:9. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 8 GB: set extra_dmem_in_mbytes to 6144 under General in the emulator config.json. Very heavy: every screen-sized render target is 21.0x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="e01066b9e01066be602766ba6027"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00801d46c7048200008745"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="55551540"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="6027000069c8e0100000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="6027000069c8e0100000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="55551540"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="6027000041be60270000b9e0100000bbe0100000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="d8090000b938040000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="d8090000b938040000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="d8090000b938040000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="d8090000b938040000"/>
+            <Line Type="bytes" Address="0x013de098" Value="00801d4641c7462400008745"/>
+            <Line Type="bytes" Address="0x013de146" Value="00801d4643c7443e1c00008745"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="60270000b9e01000004531c04531c941c787c09200006027000041c787c4920000e0100000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="d8090000b938040000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="d8090000b938040000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="d8090000b938040000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="d8090000b938040000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="55551540"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="55551540"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="55551540"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00801d46c7048200008745"/>
+            <Line Type="bytes" Address="0x0183e088" Value="0000000002000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00801d46000007450000803f0000000000000000000007450000803f0000000000809d45000000000000803f0000000000809d4500008745"/>
+            <Line Type="bytes" Address="0x01896d30" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x01897960" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189b080" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189b990" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189e630" Value="00801d4600008745010dd038d6b97239"/>
+            <Line Type="bytes" Address="0x018a1130" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x018b975c" Value="00809d450000074500801d4600008745"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="00809d450000074500801d4600008745"/>
+            <Line Type="bytes" Address="0x018c1388" Value="00809d450000074500801d4600008745"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3098" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3168" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3198" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3260" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c365c" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3714" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c375c" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="00801d4600801d46000087450000874500801d4600801d460000874500008745"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 2.39:1 5160x2160 (4K)" Note="UNTESTED in game. Renders and outputs 5160x2160 with the 45 aspect constants set to 2.39:1. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 5 GB: set extra_dmem_in_mbytes to 3072 under General in the emulator config.json. Very heavy: every screen-sized render target is 5.4x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="700866b9700866be281466ba2814"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="0040a145c7048200000745"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="2814000069c870080000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="2814000069c870080000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="2814000041be28140000b970080000bb70080000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="0a050000b91c020000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="0a050000b91c020000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="0a050000b91c020000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="0a050000b91c020000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0040a14541c7462400000745"/>
+            <Line Type="bytes" Address="0x013de146" Value="0040a14543c7443e1c00000745"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="28140000b9700800004531c04531c941c787c09200002814000041c787c492000070080000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="0a050000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="0a050000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="0a050000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="0a050000b91c020000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="0040a145c7048200000745"/>
+            <Line Type="bytes" Address="0x0183e088" Value="0000004001000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="0040a145000087440000803f0000000000000000000087440000803f0000000000402145000000000000803f000000000040214500000745"/>
+            <Line Type="bytes" Address="0x01896d30" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x01897960" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189b080" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189b990" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0040a1450000074560364b39d6b9f239"/>
+            <Line Type="bytes" Address="0x018a1130" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x018b975c" Value="00402145000087440040a14500000745"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="00402145000087440040a14500000745"/>
+            <Line Type="bytes" Address="0x018c1388" Value="00402145000087440040a14500000745"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3098" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3168" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3198" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3260" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c365c" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3714" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c375c" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0040a1450040a14500000745000007450040a1450040a1450000074500000745"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 2.39:1 10328x4320 (8K)" Note="UNTESTED in game. Renders and outputs 10328x4320 with the 45 aspect constants set to 2.39:1. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 8 GB: set extra_dmem_in_mbytes to 6144 under General in the emulator config.json. Very heavy: every screen-sized render target is 21.5x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="e01066b9e01066be582866ba5828"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00602146c7048200008745"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="5828000069c8e0100000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="5828000069c8e0100000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="5828000041be58280000b9e0100000bbe0100000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="160a0000b938040000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="160a0000b938040000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="160a0000b938040000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="160a0000b938040000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0060214641c7462400008745"/>
+            <Line Type="bytes" Address="0x013de146" Value="0060214643c7443e1c00008745"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="58280000b9e01000004531c04531c941c787c09200005828000041c787c4920000e0100000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="160a0000b938040000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="160a0000b938040000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="160a0000b938040000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="160a0000b938040000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00602146c7048200008745"/>
+            <Line Type="bytes" Address="0x0183e088" Value="0000000002000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00602146000007450000803f0000000000000000000007450000803f000000000060a145000000000000803f000000000060a14500008745"/>
+            <Line Type="bytes" Address="0x01896d30" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x01897960" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189b080" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189b990" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0060214600008745140ecb38d6b97239"/>
+            <Line Type="bytes" Address="0x018a1130" Value="c3f51840c3f51840c3f51840c3f51840"/>
+            <Line Type="bytes" Address="0x018b975c" Value="0060a145000007450060214600008745"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="0060a145000007450060214600008745"/>
+            <Line Type="bytes" Address="0x018c1388" Value="0060a145000007450060214600008745"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3098" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3168" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3198" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3260" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c365c" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c3714" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c375c" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="c3f51840"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0060214600602146000087450000874500602146006021460000874500008745"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="16:10 3840x2400 (4K)" Note="UNTESTED in game. Renders and outputs 3840x2400 with the 45 aspect constants set to 16:10. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 4 GB: set extra_dmem_in_mbytes to 2048 under General in the emulator config.json. Very heavy: every screen-sized render target is 4.4x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="600966b9600966be000f66ba000f"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00007045c7048200001645"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="000f000069c860090000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="000f000069c860090000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="000f000041be000f0000b960090000bb60090000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="c0030000b958020000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="c0030000b958020000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="c0030000b958020000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="c0030000b958020000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000704541c7462400001645"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000704543c7443e1c00001645"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="000f0000b9600900004531c04531c941c787c0920000000f000041c787c492000060090000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="c0030000b958020000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="c0030000b958020000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="c0030000b958020000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="c0030000b958020000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00007045c7048200001645"/>
+            <Line Type="bytes" Address="0x0183e088" Value="0000000001000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00007045000096440000803f0000000000000000000096440000803f000000000000f044000000000000803f000000000000f04400001645"/>
+            <Line Type="bytes" Address="0x01896d30" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x01897960" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189b080" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189b990" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0000704500001645898888390e74da39"/>
+            <Line Type="bytes" Address="0x018a1130" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x018b975c" Value="0000f044000096440000704500001645"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="0000f044000096440000704500001645"/>
+            <Line Type="bytes" Address="0x018c1388" Value="0000f044000096440000704500001645"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3098" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3168" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3198" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3260" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c365c" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3714" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c375c" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000704500007045000016450000164500007045000070450000164500001645"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="16:10 7680x4800 (8K)" Note="UNTESTED in game. Renders and outputs 7680x4800 with the 45 aspect constants set to 16:10. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 7 GB: set extra_dmem_in_mbytes to 5120 under General in the emulator config.json. Very heavy: every screen-sized render target is 17.8x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="c01266b9c01266be001e66ba001e"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="0000f045c7048200009645"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="001e000069c8c0120000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="001e000069c8c0120000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="001e000041be001e0000b9c0120000bbc0120000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="80070000b9b0040000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="80070000b9b0040000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="80070000b9b0040000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="80070000b9b0040000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000f04541c7462400009645"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000f04543c7443e1c00009645"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="001e0000b9c01200004531c04531c941c787c0920000001e000041c787c4920000c0120000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="80070000b9b0040000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="80070000b9b0040000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="80070000b9b0040000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="80070000b9b0040000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="0000f045c7048200009645"/>
+            <Line Type="bytes" Address="0x0183e088" Value="000000c001000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="0000f045000016450000803f0000000000000000000016450000803f0000000000007045000000000000803f000000000000704500009645"/>
+            <Line Type="bytes" Address="0x01896d30" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x01897960" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189b080" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189b990" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0000f04500009645898808390e745a39"/>
+            <Line Type="bytes" Address="0x018a1130" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x018b975c" Value="00007045000016450000f04500009645"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="00007045000016450000f04500009645"/>
+            <Line Type="bytes" Address="0x018c1388" Value="00007045000016450000f04500009645"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3098" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3168" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3198" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3260" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c365c" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3714" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c375c" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000f0450000f04500009645000096450000f0450000f0450000964500009645"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:10 4536x2160 (4K)" Note="UNTESTED in game. Renders and outputs 4536x2160 with the 45 aspect constants set to 21:10. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 4 GB: set extra_dmem_in_mbytes to 2048 under General in the emulator config.json. Very heavy: every screen-sized render target is 4.7x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="700866b9700866beb81166bab811"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00c08d45c7048200000745"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="66660640"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="b811000069c870080000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="b811000069c870080000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="66660640"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="b811000041beb8110000b970080000bb70080000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="6e040000b91c020000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="6e040000b91c020000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="6e040000b91c020000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="6e040000b91c020000"/>
+            <Line Type="bytes" Address="0x013de098" Value="00c08d4541c7462400000745"/>
+            <Line Type="bytes" Address="0x013de146" Value="00c08d4543c7443e1c00000745"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="b8110000b9700800004531c04531c941c787c0920000b811000041c787c492000070080000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="6e040000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="6e040000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="6e040000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="6e040000b91c020000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="66660640"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="66660640"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="66660640"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00c08d45c7048200000745"/>
+            <Line Type="bytes" Address="0x0183e088" Value="0000000001000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00c08d45000087440000803f0000000000000000000087440000803f0000000000c00d45000000000000803f0000000000c00d4500000745"/>
+            <Line Type="bytes" Address="0x01896d30" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x01897960" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x0189b080" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x0189b990" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x0189e630" Value="00c08d4500000745e42a6739d6b9f239"/>
+            <Line Type="bytes" Address="0x018a1130" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x018b975c" Value="00c00d450000874400c08d4500000745"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="00c00d450000874400c08d4500000745"/>
+            <Line Type="bytes" Address="0x018c1388" Value="00c00d450000874400c08d4500000745"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c3098" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c3168" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c3198" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c3260" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c365c" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c3714" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c375c" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="00c08d4500c08d45000007450000074500c08d4500c08d450000074500000745"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:10 9072x4320 (8K)" Note="UNTESTED in game. Renders and outputs 9072x4320 with the 45 aspect constants set to 21:10. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 7 GB: set extra_dmem_in_mbytes to 5120 under General in the emulator config.json. Very heavy: every screen-sized render target is 18.9x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="e01066b9e01066be702366ba7023"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00c00d46c7048200008745"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="66660640"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="7023000069c8e0100000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="7023000069c8e0100000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="66660640"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="7023000041be70230000b9e0100000bbe0100000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="dc080000b938040000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="dc080000b938040000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="dc080000b938040000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="dc080000b938040000"/>
+            <Line Type="bytes" Address="0x013de098" Value="00c00d4641c7462400008745"/>
+            <Line Type="bytes" Address="0x013de146" Value="00c00d4643c7443e1c00008745"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="70230000b9e01000004531c04531c941c787c09200007023000041c787c4920000e0100000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="dc080000b938040000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="dc080000b938040000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="dc080000b938040000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="dc080000b938040000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="66660640"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="66660640"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="66660640"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00c00d46c7048200008745"/>
+            <Line Type="bytes" Address="0x0183e088" Value="000000c001000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00c00d46000007450000803f0000000000000000000007450000803f0000000000c08d45000000000000803f0000000000c08d4500008745"/>
+            <Line Type="bytes" Address="0x01896d30" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x01897960" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x0189b080" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x0189b990" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x0189e630" Value="00c00d4600008745e42ae738d6b97239"/>
+            <Line Type="bytes" Address="0x018a1130" Value="66660640666606406666064066660640"/>
+            <Line Type="bytes" Address="0x018b975c" Value="00c08d450000074500c00d4600008745"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="00c08d450000074500c00d4600008745"/>
+            <Line Type="bytes" Address="0x018c1388" Value="00c08d450000074500c00d4600008745"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c3098" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c3168" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c3198" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c3260" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c365c" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c3714" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c375c" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="66660640"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="00c00d4600c00d46000087450000874500c00d4600c00d460000874500008745"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:9 7680x2160 (4K)" Note="UNTESTED in game. Renders and outputs 7680x2160 with the 45 aspect constants set to 32:9. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 5 GB: set extra_dmem_in_mbytes to 3072 under General in the emulator config.json. Very heavy: every screen-sized render target is 8.0x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="700866b9700866be001e66ba001e"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="0000f045c7048200000745"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="398e6340"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="001e000069c870080000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="001e000069c870080000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="398e6340"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="001e000041be001e0000b970080000bb70080000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="80070000b91c020000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="80070000b91c020000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="80070000b91c020000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="80070000b91c020000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000f04541c7462400000745"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000f04543c7443e1c00000745"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="001e0000b9700800004531c04531c941c787c0920000001e000041c787c492000070080000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="80070000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="80070000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="80070000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="80070000b91c020000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="398e6340"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="398e6340"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="398e6340"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="0000f045c7048200000745"/>
+            <Line Type="bytes" Address="0x0183e088" Value="0000004001000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="0000f045000087440000803f0000000000000000000087440000803f0000000000007045000000000000803f000000000000704500000745"/>
+            <Line Type="bytes" Address="0x01896d30" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x01897960" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189b080" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189b990" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0000f0450000074589880839d6b9f239"/>
+            <Line Type="bytes" Address="0x018a1130" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x018b975c" Value="00007045000087440000f04500000745"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="00007045000087440000f04500000745"/>
+            <Line Type="bytes" Address="0x018c1388" Value="00007045000087440000f04500000745"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3098" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3168" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3198" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3260" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c365c" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3714" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c375c" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000f0450000f04500000745000007450000f0450000f0450000074500000745"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:9 15360x4320 (8K)" Note="UNTESTED in game. Renders and outputs 15360x4320 with the 45 aspect constants set to 32:9. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 10 GB: set extra_dmem_in_mbytes to 8192 under General in the emulator config.json. Very heavy: every screen-sized render target is 32.0x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="e01066b9e01066be003c66ba003c"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00007046c7048200008745"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="398e6340"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="003c000069c8e0100000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="003c000069c8e0100000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="398e6340"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="003c000041be003c0000b9e0100000bbe0100000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="000f0000b938040000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="000f0000b938040000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="000f0000b938040000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="000f0000b938040000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000704641c7462400008745"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000704643c7443e1c00008745"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="003c0000b9e01000004531c04531c941c787c0920000003c000041c787c4920000e0100000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="000f0000b938040000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="000f0000b938040000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="000f0000b938040000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="000f0000b938040000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="398e6340"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="398e6340"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="398e6340"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00007046c7048200008745"/>
+            <Line Type="bytes" Address="0x0183e088" Value="0000008002000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00007046000007450000803f0000000000000000000007450000803f000000000000f045000000000000803f000000000000f04500008745"/>
+            <Line Type="bytes" Address="0x01896d30" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x01897960" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189b080" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189b990" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x0189e630" Value="000070460000874589888838d6b97239"/>
+            <Line Type="bytes" Address="0x018a1130" Value="398e6340398e6340398e6340398e6340"/>
+            <Line Type="bytes" Address="0x018b975c" Value="0000f045000007450000704600008745"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="0000f045000007450000704600008745"/>
+            <Line Type="bytes" Address="0x018c1388" Value="0000f045000007450000704600008745"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3098" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3168" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3198" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3260" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c365c" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c3714" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c375c" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="398e6340"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000704600007046000087450000874500007046000070460000874500008745"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:10 6912x2160 (4K)" Note="UNTESTED in game. Renders and outputs 6912x2160 with the 45 aspect constants set to 32:10. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 5 GB: set extra_dmem_in_mbytes to 3072 under General in the emulator config.json. Very heavy: every screen-sized render target is 7.2x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="700866b9700866be001b66ba001b"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="0000d845c7048200000745"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="001b000069c870080000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="001b000069c870080000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="001b000041be001b0000b970080000bb70080000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="c0060000b91c020000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="c0060000b91c020000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="c0060000b91c020000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="c0060000b91c020000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000d84541c7462400000745"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000d84543c7443e1c00000745"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="001b0000b9700800004531c04531c941c787c0920000001b000041c787c492000070080000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="c0060000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="c0060000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="c0060000b91c020000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="c0060000b91c020000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="0000d845c7048200000745"/>
+            <Line Type="bytes" Address="0x0183e088" Value="0000004001000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="0000d845000087440000803f0000000000000000000087440000803f0000000000005845000000000000803f000000000000584500000745"/>
+            <Line Type="bytes" Address="0x01896d30" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x01897960" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x0189b080" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x0189b990" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0000d8450000074526b41739d6b9f239"/>
+            <Line Type="bytes" Address="0x018a1130" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x018b975c" Value="00005845000087440000d84500000745"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="00005845000087440000d84500000745"/>
+            <Line Type="bytes" Address="0x018c1388" Value="00005845000087440000d84500000745"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c3098" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c3168" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c3198" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c3260" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c365c" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c3714" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c375c" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000d8450000d84500000745000007450000d8450000d8450000074500000745"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:10 13824x4320 (8K)" Note="UNTESTED in game. Renders and outputs 13824x4320 with the 45 aspect constants set to 32:10. Pins the game 4K-output flag to 0. Keep the emulator PS4 Pro mode off and the GR2fork resolution and aspect overrides Off. Do not combine with any other Resolution, Ultrawide, 16:10 or Aspect toggle. Set the emulator window to the same ratio. Text uses the game PS4 Pro text mode (glyphs at 2x). Raises the game video memory pool from 2.91 GB to 9 GB: set extra_dmem_in_mbytes to 7168 under General in the emulator config.json. Very heavy: every screen-sized render target is 28.8x the 1080p size." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00846825" Value="e01066b9e01066be003666ba0036"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00005846c7048200008745"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085b42b" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="0036000069c8e0100000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="0036000069c8e0100000"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="0036000041be00360000b9e0100000bbe0100000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="800d0000b938040000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="800d0000b938040000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="800d0000b938040000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="800d0000b938040000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000584641c7462400008745"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000584643c7443e1c00008745"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="00360000b9e01000004531c04531c941c787c09200000036000041c787c4920000e0100000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="800d0000b938040000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="800d0000b938040000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="800d0000b938040000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="800d0000b938040000"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00005846c7048200008745"/>
+            <Line Type="bytes" Address="0x0183e088" Value="0000004002000000"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00005846000007450000803f0000000000000000000007450000803f000000000000d845000000000000803f000000000000d84500008745"/>
+            <Line Type="bytes" Address="0x01896d30" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x01897960" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x0189b080" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x0189b990" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x0189e630" Value="000058460000874526b49738d6b97239"/>
+            <Line Type="bytes" Address="0x018a1130" Value="cdcc4c40cdcc4c40cdcc4c40cdcc4c40"/>
+            <Line Type="bytes" Address="0x018b975c" Value="0000d845000007450000584600008745"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="0000d845000007450000584600008745"/>
+            <Line Type="bytes" Address="0x018c1388" Value="0000d845000007450000584600008745"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c3098" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c3168" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c3198" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c3260" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c365c" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c3714" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c375c" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="cdcc4c40"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000584600005846000087450000874500005846000058460000874500008745"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Aspect 21:9 anamorphic (display stretch)" Note="UNTESTED in game. Sets the 45 aspect constants to 21:9 but keeps a 16:9 output buffer, for a display that stretches a 16:9 signal to 21:9 (PS4 console). On shadPS4 the picture is squeezed; use the Ultrawide or 16:10 toggles there. May be combined with one 16:9 Resolution toggle (no shared addresses); do not combine with Ultrawide, 16:10 or another Aspect toggle." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x0085b42b" Value="55551540"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="55551540"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="55551540"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="55551540"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="55551540"/>
+            <Line Type="bytes" Address="0x01896d30" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x01897960" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189b080" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189b990" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x018a1130" Value="55551540555515405555154055551540"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3098" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3168" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3198" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3260" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c365c" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c3714" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c375c" Value="55551540"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="55551540"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Aspect 16:10 anamorphic (display stretch)" Note="UNTESTED in game. Sets the 45 aspect constants to 16:10 but keeps a 16:9 output buffer, for a display that stretches a 16:9 signal to 16:10 (PS4 console). On shadPS4 the picture is squeezed; use the Ultrawide or 16:10 toggles there. May be combined with one 16:9 Resolution toggle (no shared addresses); do not combine with Ultrawide, 16:10 or another Aspect toggle." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x0085b42b" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x00865cc3" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x014d9dbb" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x014d9fc9" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x014da1eb" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x01896d30" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x01897960" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189a2c0" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189b080" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189b990" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x0189bd90" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x018a1130" Value="cdcccc3fcdcccc3fcdcccc3fcdcccc3f"/>
+            <Line Type="bytes" Address="0x018c2ba0" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c2be8" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3098" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3168" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3198" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3260" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c35ec" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c365c" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c36b8" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c3714" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c375c" Value="cdcccc3f"/>
+            <Line Type="bytes" Address="0x018c4ea4" Value="cdcccc3f"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Disable motion blur" Note="Removes the camera motion blur by skipping its two fullscreen draws, the same draws the GR2 fork emulator drops for its motion blur option. Saves two fullscreen passes per frame." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <!-- blur pass 1 draw, writes T+0x76c0 from T+0x7f18: call 0x1617340 becomes nop5 -->
+            <Line Type="bytes" Address="0x0143e71f" Value="0f1f440000"/>
+            <!-- blur pass 2 draw, writes T+0x7f18 from T+0x76c0: call 0x1617340 becomes nop5 -->
+            <Line Type="bytes" Address="0x0143ea18" Value="0f1f440000"/>
         </PatchList>
     </Metadata>
 </Patch>
