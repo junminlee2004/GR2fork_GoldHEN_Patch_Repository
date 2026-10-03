@@ -7,7 +7,7 @@
         <ID>CUSA04935</ID>
         <ID>CUSA04943</ID>
     </TitleID>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="40fps v3.8" Note="40 FPS with a fixed 1/40 game step: the game slows down if it drops below 40 FPS. Set Vblank frequency to 40. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="3.8" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="40fps v3.9" Note="40 FPS with a fixed 1/40 game step: the game slows down if it drops below 40 FPS. Set Vblank frequency to 40. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="3.9" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00496760" Value="a302f701001500001e003200002300004400350000250000370034000027000037004900002700008501d200002e00005901e300003000003c01c7000034000010004000003600005e012901003b00001902aa01003c000024005900003d0000c6020b02003e0000c1035f02004000000302cd01004400004101f500004500009302ac010048000023037302004a0000da009f00004b000042011501004b0000be000401004c00000d01ea000053000013006400005600001d006800005900005901c400005a00007801de00005e00007c00ec00005e00002c035302005e0000a000d500005f000038007b000063000078012901006300001700700000650000"/>
             <Line Type="bytes" Address="0x00496860" Value="1201cc0000680000b100a300006900002f023703006b00000005c003006b00007200aa00006c00009f00a800007000003f03a60200700000e901790100730000a0028102007400000a02f10100750000e302cf02007500002900890000770000d200d10000780000ad036d0200790000f4025c02007a00000a008100007b000037008b00007e0000f9000d01008100001a01270100810000e702270200810000000454030083000080047603008300000f008f00008900001b009300008b000021009b00008c00006600c800008c0000a400c900008c00003103f002008d00003f00a900008e00005600b300008e00004f050603009300001f00aa0000940000"/>
@@ -1294,7 +1294,7 @@
             <Line Type="bytes" Address="0x01c1b3d8" Value="907d9eeb2800f560"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="60fps v3.8" Note="60 FPS with a fixed 1/60 game step: the game slows down if it drops below 60 FPS. Set Vblank frequency to 60. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="3.8" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="60fps v3.9" Note="60 FPS with a fixed 1/60 game step: the game slows down if it drops below 60 FPS. Set Vblank frequency to 60. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="3.9" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00496760" Value="a302f701001500001e003200002300004400350000250000370034000027000037004900002700008501d200002e00005901e300003000003c01c7000034000010004000003600005e012901003b00001902aa01003c000024005900003d0000c6020b02003e0000c1035f02004000000302cd01004400004101f500004500009302ac010048000023037302004a0000da009f00004b000042011501004b0000be000401004c00000d01ea000053000013006400005600001d006800005900005901c400005a00007801de00005e00007c00ec00005e00002c035302005e0000a000d500005f000038007b000063000078012901006300001700700000650000"/>
             <Line Type="bytes" Address="0x00496860" Value="1201cc0000680000b100a300006900002f023703006b00000005c003006b00007200aa00006c00009f00a800007000003f03a60200700000e901790100730000a0028102007400000a02f10100750000e302cf02007500002900890000770000d200d10000780000ad036d0200790000f4025c02007a00000a008100007b000037008b00007e0000f9000d01008100001a01270100810000e702270200810000000454030083000080047603008300000f008f00008900001b009300008b000021009b00008c00006600c800008c0000a400c900008c00003103f002008d00003f00a900008e00005600b300008e00004f050603009300001f00aa0000940000"/>
@@ -2583,7 +2583,7 @@
             <Line Type="bytes" Address="0x01c1b3d8" Value="907d9eeb3c00f560"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="90fps v3.8" Note="90 FPS with a fixed 1/90 game step: the game slows down if it drops below 90 FPS. Set Vblank frequency to 90. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="3.8" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="90fps v3.9" Note="90 FPS with a fixed 1/90 game step: the game slows down if it drops below 90 FPS. Set Vblank frequency to 90. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="3.9" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00496760" Value="a302f701001500001e003200002300004400350000250000370034000027000037004900002700008501d200002e00005901e300003000003c01c7000034000010004000003600005e012901003b00001902aa01003c000024005900003d0000c6020b02003e0000c1035f02004000000302cd01004400004101f500004500009302ac010048000023037302004a0000da009f00004b000042011501004b0000be000401004c00000d01ea000053000013006400005600001d006800005900005901c400005a00007801de00005e00007c00ec00005e00002c035302005e0000a000d500005f000038007b000063000078012901006300001700700000650000"/>
             <Line Type="bytes" Address="0x00496860" Value="1201cc0000680000b100a300006900002f023703006b00000005c003006b00007200aa00006c00009f00a800007000003f03a60200700000e901790100730000a0028102007400000a02f10100750000e302cf02007500002900890000770000d200d10000780000ad036d0200790000f4025c02007a00000a008100007b000037008b00007e0000f9000d01008100001a01270100810000e702270200810000000454030083000080047603008300000f008f00008900001b009300008b000021009b00008c00006600c800008c0000a400c900008c00003103f002008d00003f00a900008e00005600b300008e00004f050603009300001f00aa0000940000"/>
@@ -3872,7 +3872,7 @@
             <Line Type="bytes" Address="0x01c1b3d8" Value="907d9eeb5a00f560"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="120fps v3.8" Note="120 FPS with a fixed 1/120 game step: the game slows down if it drops below 120 FPS. Set Vblank frequency to 120. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="3.8" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="120fps v3.9" Note="120 FPS with a fixed 1/120 game step: the game slows down if it drops below 120 FPS. Set Vblank frequency to 120. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="3.9" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00496760" Value="a302f701001500001e003200002300004400350000250000370034000027000037004900002700008501d200002e00005901e300003000003c01c7000034000010004000003600005e012901003b00001902aa01003c000024005900003d0000c6020b02003e0000c1035f02004000000302cd01004400004101f500004500009302ac010048000023037302004a0000da009f00004b000042011501004b0000be000401004c00000d01ea000053000013006400005600001d006800005900005901c400005a00007801de00005e00007c00ec00005e00002c035302005e0000a000d500005f000038007b000063000078012901006300001700700000650000"/>
             <Line Type="bytes" Address="0x00496860" Value="1201cc0000680000b100a300006900002f023703006b00000005c003006b00007200aa00006c00009f00a800007000003f03a60200700000e901790100730000a0028102007400000a02f10100750000e302cf02007500002900890000770000d200d10000780000ad036d0200790000f4025c02007a00000a008100007b000037008b00007e0000f9000d01008100001a01270100810000e702270200810000000454030083000080047603008300000f008f00008900001b009300008b000021009b00008c00006600c800008c0000a400c900008c00003103f002008d00003f00a900008e00005600b300008e00004f050603009300001f00aa0000940000"/>
@@ -5161,7 +5161,7 @@
             <Line Type="bytes" Address="0x01c1b3d8" Value="907d9eeb7800f560"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="144fps v3.8" Note="144 FPS with a fixed 1/144 game step: the game slows down if it drops below 144 FPS. Set Vblank frequency to 144. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="3.8" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="144fps v3.9" Note="144 FPS with a fixed 1/144 game step: the game slows down if it drops below 144 FPS. Set Vblank frequency to 144. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="3.9" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00496760" Value="a302f701001500001e003200002300004400350000250000370034000027000037004900002700008501d200002e00005901e300003000003c01c7000034000010004000003600005e012901003b00001902aa01003c000024005900003d0000c6020b02003e0000c1035f02004000000302cd01004400004101f500004500009302ac010048000023037302004a0000da009f00004b000042011501004b0000be000401004c00000d01ea000053000013006400005600001d006800005900005901c400005a00007801de00005e00007c00ec00005e00002c035302005e0000a000d500005f000038007b000063000078012901006300001700700000650000"/>
             <Line Type="bytes" Address="0x00496860" Value="1201cc0000680000b100a300006900002f023703006b00000005c003006b00007200aa00006c00009f00a800007000003f03a60200700000e901790100730000a0028102007400000a02f10100750000e302cf02007500002900890000770000d200d10000780000ad036d0200790000f4025c02007a00000a008100007b000037008b00007e0000f9000d01008100001a01270100810000e702270200810000000454030083000080047603008300000f008f00008900001b009300008b000021009b00008c00006600c800008c0000a400c900008c00003103f002008d00003f00a900008e00005600b300008e00004f050603009300001f00aa0000940000"/>
@@ -6722,6 +6722,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 1280x720 (720p, 16:9)" Note="1280x720, 16:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="d00266b9d00266be000566ba0005"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000a044c7048200003444"/>
@@ -6751,6 +6752,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 1600x900 (900p, 16:9)" Note="1600x900, 16:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="840366b9840366be400666ba4006"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000c844c7048200006144"/>
@@ -6780,6 +6782,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 2560x1440 (1440p, 16:9)" Note="2560x1440, 16:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="a00566b9a00566be000a66ba000a"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00002045c704820000b444"/>
@@ -6807,8 +6810,9 @@
             <Line Type="bytes" Address="0x018c7e60" Value="00002045000020450000b4440000b44400002045000020450000b4440000b444"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 3840x2160 (2160p, 16:9)" Note="3840x2160, 16:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 3840x2160 (2160p, 16:9)" Note="3840x2160, 16:9. Needs extra_dmem_in_mbytes 128." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="700866b9700866be000f66ba000f"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00007045c7048200000745"/>
@@ -6838,6 +6842,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 5120x2880 (5K, 16:9)" Note="5120x2880, 16:9. Needs extra_dmem_in_mbytes 4096." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="400b66b9400b66be001466ba0014"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000a045c7048200003445"/>
@@ -6868,6 +6873,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 968x544 (544p, 16:9)" Note="968x544, 16:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="200266b9200266bec80366bac803"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00007244c7048200000844"/>
@@ -6897,6 +6903,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 7680x4320 (8K, 16:9)" Note="7680x4320, 16:9. Needs extra_dmem_in_mbytes 6144." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="e01066b9e01066be001e66ba001e"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000f045c7048200008745"/>
@@ -6927,6 +6934,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:9 (7:3) 1272x544" Note="1272x544, 21:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="200266b9200266bef80466baf804"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00009f44c7048200000844"/>
@@ -6980,6 +6988,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:9 (7:3) 1680x720" Note="1680x720, 21:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="d00266b9d00266be900666ba9006"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000d244c7048200003444"/>
@@ -7033,6 +7042,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:9 (7:3) 2104x900" Note="2104x900, 21:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="840366b9840366be380866ba3808"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00800345c7048200006144"/>
@@ -7086,6 +7096,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:9 (7:3) 2520x1080" Note="2520x1080, 21:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="380466b9380466bed80966bad809"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00801d45c7048200008744"/>
@@ -7139,6 +7150,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:9 (7:3) 3360x1440" Note="3360x1440, 21:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="a00566b9a00566be200d66ba200d"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00005245c704820000b444"/>
@@ -7192,6 +7204,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 2.39:1 1304x544" Note="1304x544, 2.39:1." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="200266b9200266be180566ba1805"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000a344c7048200000844"/>
@@ -7245,6 +7258,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 2.39:1 1720x720" Note="1720x720, 2.39:1." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="d00266b9d00266beb80666bab806"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000d744c7048200003444"/>
@@ -7298,6 +7312,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 2.39:1 2152x900" Note="2152x900, 2.39:1." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="840366b9840366be680866ba6808"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00800645c7048200006144"/>
@@ -7351,6 +7366,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 2.39:1 2584x1080" Note="2584x1080, 2.39:1." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="380466b9380466be180a66ba180a"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00802145c7048200008744"/>
@@ -7404,6 +7420,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 2.39:1 3440x1440" Note="3440x1440, 2.39:1." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="a00566b9a00566be700d66ba700d"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00005745c704820000b444"/>
@@ -7457,6 +7474,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="16:10 968x604" Note="968x604, 16:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="5c0266b95c0266bec80366bac803"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00007244c7048200001744"/>
@@ -7510,6 +7528,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="16:10 1280x800" Note="1280x800, 16:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="200366b9200366be000566ba0005"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000a044c7048200004844"/>
@@ -7563,6 +7582,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="16:10 1600x1000" Note="1600x1000, 16:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="e80366b9e80366be400666ba4006"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000c844c7048200007a44"/>
@@ -7616,6 +7636,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="16:10 1920x1200" Note="1920x1200, 16:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="b00466b9b00466be800766ba8007"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000f044c7048200009644"/>
@@ -7669,6 +7690,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="16:10 2560x1600" Note="2560x1600, 16:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="400666b9400666be000a66ba000a"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00002045c704820000c844"/>
@@ -7722,6 +7744,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:9 1936x544" Note="1936x544, 32:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="200266b9200266be900766ba9007"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000f244c7048200000844"/>
@@ -7775,6 +7798,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:9 2560x720" Note="2560x720, 32:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="d00266b9d00266be000a66ba000a"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00002045c7048200003444"/>
@@ -7828,6 +7852,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:9 3200x900" Note="3200x900, 32:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="840366b9840366be800c66ba800c"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00004845c7048200006144"/>
@@ -7881,6 +7906,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:9 3840x1080" Note="3840x1080, 32:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="380466b9380466be000f66ba000f"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00007045c7048200008744"/>
@@ -7934,6 +7960,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:9 5120x1440" Note="5120x1440, 32:9. Needs extra_dmem_in_mbytes 2048." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="a00566b9a00566be001466ba0014"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000a045c704820000b444"/>
@@ -7988,6 +8015,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:9 (7:3) 5040x2160 (4K)" Note="5040x2160, 21:9. Needs extra_dmem_in_mbytes 3072." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="700866b9700866beb01366bab013"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00809d45c7048200000745"/>
@@ -8042,6 +8070,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:9 (7:3) 6720x2880 (5K)" Note="6720x2880, 21:9. Needs extra_dmem_in_mbytes 3072." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="400b66b9400b66be401a66ba401a"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000d245c7048200003445"/>
@@ -8096,6 +8125,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:9 (7:3) 10080x4320 (8K)" Note="10080x4320, 21:9. Needs extra_dmem_in_mbytes 6144." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="e01066b9e01066be602766ba6027"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00801d46c7048200008745"/>
@@ -8150,6 +8180,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 2.39:1 5160x2160 (4K)" Note="5160x2160, 2.39:1. Needs extra_dmem_in_mbytes 3072." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="700866b9700866be281466ba2814"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0040a145c7048200000745"/>
@@ -8204,6 +8235,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 2.39:1 6880x2880 (5K)" Note="6880x2880, 2.39:1. Needs extra_dmem_in_mbytes 3072." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="400b66b9400b66bee01a66bae01a"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000d745c7048200003445"/>
@@ -8258,6 +8290,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 2.39:1 10328x4320 (8K)" Note="10328x4320, 2.39:1. Needs extra_dmem_in_mbytes 6144." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="e01066b9e01066be582866ba5828"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00602146c7048200008745"/>
@@ -8312,6 +8345,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="16:10 3840x2400 (4K)" Note="3840x2400, 16:10. Needs extra_dmem_in_mbytes 2048." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="600966b9600966be000f66ba000f"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00007045c7048200001645"/>
@@ -8366,6 +8400,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="16:10 5120x3200 (5K)" Note="5120x3200, 16:10. Needs extra_dmem_in_mbytes 3072." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="800c66b9800c66be001466ba0014"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000a045c7048200004845"/>
@@ -8420,6 +8455,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="16:10 7680x4800 (8K)" Note="7680x4800, 16:10. Needs extra_dmem_in_mbytes 5120." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="c01266b9c01266be001e66ba001e"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000f045c7048200009645"/>
@@ -8474,6 +8510,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:10 1144x544" Note="1144x544, 21:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="200266b9200266be780466ba7804"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00008f44c7048200000844"/>
@@ -8527,6 +8564,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:10 1512x720" Note="1512x720, 21:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="d00266b9d00266bee80566bae805"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000bd44c7048200003444"/>
@@ -8580,6 +8618,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:10 1888x900" Note="1888x900, 21:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="840366b9840366be600766ba6007"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000ec44c7048200006144"/>
@@ -8633,6 +8672,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:10 2272x1080" Note="2272x1080, 21:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="380466b9380466bee00866bae008"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00000e45c7048200008744"/>
@@ -8686,6 +8726,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:10 3024x1440" Note="3024x1440, 21:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="a00566b9a00566bed00b66bad00b"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00003d45c704820000b444"/>
@@ -8739,6 +8780,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:10 4536x2160 (4K)" Note="4536x2160, 21:10. Needs extra_dmem_in_mbytes 2048." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="700866b9700866beb81166bab811"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00c08d45c7048200000745"/>
@@ -8793,6 +8835,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:10 6048x2880 (5K)" Note="6048x2880, 21:10. Needs extra_dmem_in_mbytes 3072." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="400b66b9400b66bea01766baa017"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000bd45c7048200003445"/>
@@ -8847,6 +8890,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Ultrawide 21:10 9072x4320 (8K)" Note="9072x4320, 21:10. Needs extra_dmem_in_mbytes 5120." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="e01066b9e01066be702366ba7023"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00c00d46c7048200008745"/>
@@ -8901,6 +8945,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:9 7680x2160 (4K)" Note="7680x2160, 32:9. Needs extra_dmem_in_mbytes 3072." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="700866b9700866be001e66ba001e"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000f045c7048200000745"/>
@@ -8955,6 +9000,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:9 10240x2880 (5K)" Note="10240x2880, 32:9. Needs extra_dmem_in_mbytes 4096." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="400b66b9400b66be002866ba0028"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00002046c7048200003445"/>
@@ -9009,6 +9055,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:9 15360x4320 (8K)" Note="15360x4320, 32:9. Needs extra_dmem_in_mbytes 8192." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="e01066b9e01066be003c66ba003c"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00007046c7048200008745"/>
@@ -9063,6 +9110,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:10 1744x544" Note="1744x544, 32:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="200266b9200266bed00666bad006"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000da44c7048200000844"/>
@@ -9116,6 +9164,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:10 2304x720" Note="2304x720, 32:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="d00266b9d00266be000966ba0009"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00001045c7048200003444"/>
@@ -9169,6 +9218,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:10 2880x900" Note="2880x900, 32:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="840366b9840366be400b66ba400b"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00003445c7048200006144"/>
@@ -9222,6 +9272,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:10 3456x1080" Note="3456x1080, 32:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
             <Line Type="bytes" Address="0x00846825" Value="380466b9380466be800d66ba800d"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00005845c7048200008744"/>
@@ -9273,8 +9324,9 @@
             <Line Type="bytes" Address="0x018c7e60" Value="0000584500005845000087440000874400005845000058450000874400008744"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:10 4608x1440" Note="4608x1440, 32:10." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:10 4608x1440" Note="4608x1440, 32:10. Needs extra_dmem_in_mbytes 128." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="a00566b9a00566be001266ba0012"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00009045c704820000b444"/>
@@ -9328,6 +9380,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:10 6912x2160 (4K)" Note="6912x2160, 32:10. Needs extra_dmem_in_mbytes 3072." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="700866b9700866be001b66ba001b"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="0000d845c7048200000745"/>
@@ -9382,6 +9435,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:10 9216x2880 (5K)" Note="9216x2880, 32:10. Needs extra_dmem_in_mbytes 4096." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="400b66b9400b66be002466ba0024"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00001046c7048200003445"/>
@@ -9436,6 +9490,7 @@
     </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Super ultrawide 32:10 13824x4320 (8K)" Note="13824x4320, 32:10. Needs extra_dmem_in_mbytes 7168." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a00000000"/>
             <Line Type="bytes" Address="0x00846825" Value="e01066b9e01066be003666ba0036"/>
             <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
             <Line Type="bytes" Address="0x0084cad5" Value="00005846c7048200008745"/>
