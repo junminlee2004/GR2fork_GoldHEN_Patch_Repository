@@ -6,6 +6,94 @@
         <ID>CUSA01113</ID>
         <ID>CUSA02318</ID>
     </TitleID>
+    <Metadata Title="Gravity Rush Remastered (Gravity Daze)" Name="Resolution 424x240 (240p, 16:9)" Note="424x240, 16:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.00" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00414d54" Value="a801000041b9f0000000"/>
+            <Line Type="bytes" Address="0x00414de9" Value="a801000041b9f0000000"/>
+            <Line Type="bytes" Address="0x00414e89" Value="a801000041b9f0000000"/>
+            <Line Type="bytes" Address="0x00428417" Value="a801000041b8f000000041b9a8010000"/>
+            <Line Type="bytes" Address="0x0042849a" Value="a801000041b8f0000000"/>
+            <Line Type="bytes" Address="0x00428779" Value="d400000041b87800000041b9d4000000"/>
+            <Line Type="bytes" Address="0x0046761c" Value="a801000041b8f000000041b9a8010000"/>
+            <Line Type="bytes" Address="0x005b621b" Value="d400000041b88000000041b9d4000000"/>
+            <Line Type="bytes" Address="0x0064f653" Value="a801000041b8f000000041b9a8010000"/>
+            <Line Type="bytes" Address="0x0143fab0" Value="2222e23ee2e1e13e2222e23ee2e1e13e"/>
+            <Line Type="bytes" Address="0x01a25ee0" Value="e8901a3bff0606108988883b"/>
+            <Line Type="bytes" Address="0x01a26098" Value="53557dc4"/>
+            <Line Type="bytes" Address="0x01a939ac" Value="e8901a3b031306408988883b"/>
+            <Line Type="bytes" Address="0x01a93a7c" Value="69702e38"/>
+            <Line Type="bytes" Address="0x01aab1b4" Value="e8901a3bff0606108988883b"/>
+            <Line Type="bytes" Address="0x01aab238" Value="ab004ec5"/>
+            <Line Type="bytes" Address="0x01aac25c" Value="e8901a3bff0606108988883b"/>
+            <Line Type="bytes" Address="0x01aac334" Value="c3f14963"/>
+            <Line Type="bytes" Address="0x01aac4ec" Value="e8901a3bff0606108988883b"/>
+            <Line Type="bytes" Address="0x01aac62c" Value="102f10fa"/>
+            <Line Type="bytes" Address="0x01aacee8" Value="e8901a3bff0606108988883b"/>
+            <Line Type="bytes" Address="0x01aad054" Value="31e9f69d"/>
+            <Line Type="bytes" Address="0x01aad2a8" Value="e8901a3bff0606108988883b"/>
+            <Line Type="bytes" Address="0x01aad47c" Value="b49e79e8"/>
+            <Line Type="bytes" Address="0x01aae1a8" Value="e8901a3bff0606108988883b"/>
+            <Line Type="bytes" Address="0x01aae50c" Value="c8df68f9"/>
+            <Line Type="bytes" Address="0x01aae758" Value="e8901a3bff0606108988883b"/>
+            <Line Type="bytes" Address="0x01aaeb24" Value="d227a453"/>
+            <Line Type="bytes" Address="0x01aafc54" Value="e8901a3bff0606108988883b"/>
+            <Line Type="bytes" Address="0x01ab0124" Value="6d3dd490"/>
+            <Line Type="bytes" Address="0x01ab0404" Value="e8901a3bff0606108988883b"/>
+            <Line Type="bytes" Address="0x01ab0944" Value="581269a1"/>
+            <Line Type="bytes" Address="0x01ab16ac" Value="e8901a3bff0606108988883b"/>
+            <Line Type="bytes" Address="0x01ab191c" Value="569614f8"/>
+            <Line Type="bytes" Address="0x01ab1bac" Value="e8901a3bff0606108988883b"/>
+            <Line Type="bytes" Address="0x01ab1e94" Value="723ed4cb"/>
+            <Line Type="bytes" Address="0x01ab25b8" Value="e8901a3bff0606108988883b"/>
+            <Line Type="bytes" Address="0x01ab2834" Value="9da1cc9a"/>
+            <Line Type="bytes" Address="0x01ab2ae4" Value="e8901a3bff060e108988883b"/>
+            <Line Type="bytes" Address="0x01ab2d9c" Value="2d0bab07"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush Remastered (Gravity Daze)" Name="Resolution 640x360 (360p, 16:9)" Note="640x360, 16:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.00" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00414d54" Value="8002000041b968010000"/>
+            <Line Type="bytes" Address="0x00414de9" Value="8002000041b968010000"/>
+            <Line Type="bytes" Address="0x00414e89" Value="8002000041b968010000"/>
+            <Line Type="bytes" Address="0x00428417" Value="8002000041b86801000041b980020000"/>
+            <Line Type="bytes" Address="0x0042849a" Value="8002000041b868010000"/>
+            <Line Type="bytes" Address="0x00428779" Value="4001000041b8b400000041b940010000"/>
+            <Line Type="bytes" Address="0x0046761c" Value="8002000041b86801000041b980020000"/>
+            <Line Type="bytes" Address="0x005b621b" Value="4001000041b8c000000041b940010000"/>
+            <Line Type="bytes" Address="0x0064f653" Value="8002000041b86801000041b980020000"/>
+            <Line Type="bytes" Address="0x0143fab0" Value="abaa2a3f6969293fabaa2a3f6969293f"/>
+            <Line Type="bytes" Address="0x01a25ee0" Value="cdcccc3aff060610610b363b"/>
+            <Line Type="bytes" Address="0x01a26098" Value="7b56e5c5"/>
+            <Line Type="bytes" Address="0x01a939ac" Value="cdcccc3a03130640610b363b"/>
+            <Line Type="bytes" Address="0x01a93a7c" Value="4173b639"/>
+            <Line Type="bytes" Address="0x01aab1b4" Value="cdcccc3aff060610610b363b"/>
+            <Line Type="bytes" Address="0x01aab238" Value="8303d6c4"/>
+            <Line Type="bytes" Address="0x01aac25c" Value="cdcccc3aff060610610b363b"/>
+            <Line Type="bytes" Address="0x01aac334" Value="ebf2d162"/>
+            <Line Type="bytes" Address="0x01aac4ec" Value="cdcccc3aff060610610b363b"/>
+            <Line Type="bytes" Address="0x01aac62c" Value="382c88fb"/>
+            <Line Type="bytes" Address="0x01aacee8" Value="cdcccc3aff060610610b363b"/>
+            <Line Type="bytes" Address="0x01aad054" Value="19ea6e9c"/>
+            <Line Type="bytes" Address="0x01aad2a8" Value="cdcccc3aff060610610b363b"/>
+            <Line Type="bytes" Address="0x01aad47c" Value="9c9de1e9"/>
+            <Line Type="bytes" Address="0x01aae1a8" Value="cdcccc3aff060610610b363b"/>
+            <Line Type="bytes" Address="0x01aae50c" Value="e0dcf0f8"/>
+            <Line Type="bytes" Address="0x01aae758" Value="cdcccc3aff060610610b363b"/>
+            <Line Type="bytes" Address="0x01aaeb24" Value="fa243c52"/>
+            <Line Type="bytes" Address="0x01aafc54" Value="cdcccc3aff060610610b363b"/>
+            <Line Type="bytes" Address="0x01ab0124" Value="453e4c91"/>
+            <Line Type="bytes" Address="0x01ab0404" Value="cdcccc3aff060610610b363b"/>
+            <Line Type="bytes" Address="0x01ab0944" Value="7011f1a0"/>
+            <Line Type="bytes" Address="0x01ab16ac" Value="cdcccc3aff060610610b363b"/>
+            <Line Type="bytes" Address="0x01ab191c" Value="7e958cf9"/>
+            <Line Type="bytes" Address="0x01ab1bac" Value="cdcccc3aff060610610b363b"/>
+            <Line Type="bytes" Address="0x01ab1e94" Value="5a3d4cca"/>
+            <Line Type="bytes" Address="0x01ab25b8" Value="cdcccc3aff060610610b363b"/>
+            <Line Type="bytes" Address="0x01ab2834" Value="b5a2549b"/>
+            <Line Type="bytes" Address="0x01ab2ae4" Value="cdcccc3aff060e10610b363b"/>
+            <Line Type="bytes" Address="0x01ab2d9c" Value="05083306"/>
+        </PatchList>
+    </Metadata>
     <Metadata Title="Gravity Rush Remastered (Gravity Daze)" Name="Resolution 968x544 (544p, 16:9)" Note="968x544, 16:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.00" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00414d54" Value="c803000041b920020000"/>

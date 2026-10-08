@@ -6946,6 +6946,70 @@
             <Line Type="bytes" Address="0x018c7e60" Value="0000a0450000a04500003445000034450000a0450000a0450000344500003445"/>
         </PatchList>
     </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 424x240 (240p, 16:9)" Note="424x240, 16:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x013e60cc" Value="0f1f8400000000000f1f840000000000"/>
+            <Line Type="bytes" Address="0x013e60e6" Value="c57828c00f1f00c57828c90f1f00"/>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
+            <Line Type="bytes" Address="0x00846825" Value="f00066b9f00066bea80166baa801"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="0000d443c7048200007043"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="a801000069c8f0000000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="a801000069c8f0000000"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="a801000041bea8010000b9f0000000bbf0000000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="6a000000b93c000000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="6a000000b93c000000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="6a000000b93c000000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="6a000000b93c000000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000d44341c7462400007043"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000d44343c7443e1c00007043"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="a8010000b9f00000004531c04531c941c787c0920000a801000041c787c4920000f0000000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="6a000000b93c000000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="6a000000b93c000000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="6a000000b93c000000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="6a000000b93c000000"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="0000d443c7048200007043"/>
+            <Line Type="bytes" Address="0x01888a20" Value="0000d4430000f0420000803f00000000000000000000f0420000803f0000000000005443000000000000803f000000000000544300007043"/>
+            <Line Type="bytes" Address="0x0189e630" Value="0000d44300007043e8901a3b8988883b"/>
+            <Line Type="bytes" Address="0x018b975c" Value="000054430000f0420000d44300007043"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="000054430000f0420000d44300007043"/>
+            <Line Type="bytes" Address="0x018c1388" Value="000054430000f0420000d44300007043"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="0000d4430000d44300007043000070430000d4430000d4430000704300007043"/>
+        </PatchList>
+    </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 640x360 (360p, 16:9)" Note="640x360, 16:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x013e60cc" Value="0f1f8400000000000f1f840000000000"/>
+            <Line Type="bytes" Address="0x013e60e6" Value="c57828c00f1f00c57828c90f1f00"/>
+            <Line Type="bytes" Address="0x0183e080" Value="0000300a0000000000004db400000000"/>
+            <Line Type="bytes" Address="0x00846825" Value="680166b9680166be800266ba8002"/>
+            <Line Type="bytes" Address="0x00846852" Value="c605671e710100"/>
+            <Line Type="bytes" Address="0x0084cad5" Value="00002044c704820000b443"/>
+            <Line Type="bytes" Address="0x00859126" Value="9090"/>
+            <Line Type="bytes" Address="0x0085d8e0" Value="8002000069c868010000"/>
+            <Line Type="bytes" Address="0x0085d9d9" Value="8002000069c868010000"/>
+            <Line Type="bytes" Address="0x0119fa01" Value="8002000041be80020000b968010000bb68010000"/>
+            <Line Type="bytes" Address="0x0119fa4f" Value="a0000000b95a000000"/>
+            <Line Type="bytes" Address="0x0119faa7" Value="a0000000b95a000000"/>
+            <Line Type="bytes" Address="0x0119faff" Value="a0000000b95a000000"/>
+            <Line Type="bytes" Address="0x0119fb57" Value="a0000000b95a000000"/>
+            <Line Type="bytes" Address="0x013de098" Value="0000204441c746240000b443"/>
+            <Line Type="bytes" Address="0x013de146" Value="0000204443c7443e1c0000b443"/>
+            <Line Type="bytes" Address="0x0142aa0b" Value="80020000b9680100004531c04531c941c787c09200008002000041c787c492000068010000"/>
+            <Line Type="bytes" Address="0x0142dff8" Value="a0000000b95a000000"/>
+            <Line Type="bytes" Address="0x0142e023" Value="a0000000b95a000000"/>
+            <Line Type="bytes" Address="0x0142e070" Value="a0000000b95a000000"/>
+            <Line Type="bytes" Address="0x0142e0d5" Value="a0000000b95a000000"/>
+            <Line Type="bytes" Address="0x0150b4a7" Value="00002044c704820000b443"/>
+            <Line Type="bytes" Address="0x01888a20" Value="00002044000034430000803f0000000000000000000034430000803f000000000000a043000000000000803f000000000000a0430000b443"/>
+            <Line Type="bytes" Address="0x0189e630" Value="000020440000b443cdcccc3a610b363b"/>
+            <Line Type="bytes" Address="0x018b975c" Value="0000a04300003443000020440000b443"/>
+            <Line Type="bytes" Address="0x018bdf08" Value="0000a04300003443000020440000b443"/>
+            <Line Type="bytes" Address="0x018c1388" Value="0000a04300003443000020440000b443"/>
+            <Line Type="bytes" Address="0x018c7e60" Value="00002044000020440000b4430000b44300002044000020440000b4430000b443"/>
+        </PatchList>
+    </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Resolution 968x544 (544p, 16:9)" Note="968x544, 16:9." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x013e60cc" Value="0f1f8400000000000f1f840000000000"/>
