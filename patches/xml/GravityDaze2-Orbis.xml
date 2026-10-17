@@ -1432,7 +1432,7 @@
             <Line Type="bytes" Address="0x01c1b3d8" Value="907d9eeb2800f560"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="60fps v4.5" Note="60 FPS with a fixed 1/60 game step: the game slows down if it drops below 60 FPS. Set Vblank frequency to 60. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="4.5" AppVer="01.11" AppElf="eboot.bin" isEnabled="true">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="60fps v4.5" Note="60 FPS with a fixed 1/60 game step: the game slows down if it drops below 60 FPS. Set Vblank frequency to 60. Use one FPS patch at a time." Author="Junmin Lee" PatchVer="4.5" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00496760" Value="a302f701001500001e003200002300004400350000250000370034000027000037004900002700008501d200002e00005901e300003000003c01c7000034000010004000003600005e012901003b00001902aa01003c000024005900003d0000c6020b02003e0000c1035f02004000000302cd01004400004101f500004500009302ac010048000023037302004a0000da009f00004b000042011501004b0000be000401004c00000d01ea000053000013006400005600001d006800005900005901c400005a00007801de00005e00007c00ec00005e00002c035302005e0000a000d500005f000038007b000063000078012901006300001700700000650000"/>
             <Line Type="bytes" Address="0x00496860" Value="1201cc0000680000b100a300006900002f023703006b00000005c003006b00007200aa00006c00009f00a800007000003f03a60200700000e901790100730000a0028102007400000a02f10100750000e302cf02007500002900890000770000d200d10000780000ad036d0200790000f4025c02007a00000a008100007b000037008b00007e0000f9000d01008100001a01270100810000e702270200810000000454030083000080047603008300000f008f00008900001b009300008b000021009b00008c00006600c800008c0000a400c900008c00003103f002008d00003f00a900008e00005600b300008e00004f050603009300001f00aa0000940000"/>
@@ -7356,7 +7356,7 @@
             <Line Type="bytes32" Address="0x00845f38" Value="0x00000000"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Swap Confirm/Cancel to Western layout (Cross confirms)" Note="Boot-time init picks the confirm and cancel buttons from a region-indexed table; this makes that lookup always take the Americas/Europe branch, so Cross confirms and Circle cancels. Both buttons come from a single pair of globals, so menus, gameplay prompts and on-screen button glyphs all follow. Region, language and text are untouched." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="true">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Swap Confirm/Cancel to Western layout (Cross confirms)" Note="Boot-time init picks the confirm and cancel buttons from a region-indexed table; this makes that lookup always take the Americas/Europe branch, so Cross confirms and Circle cancels. Both buttons come from a single pair of globals, so menus, gameplay prompts and on-screen button glyphs all follow. Region, language and text are untouched." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00846601" Value="eb19"/>
         </PatchList>
@@ -10545,7 +10545,7 @@
             <Line Type="bytes" Address="0x018c4ea4" Value="cdcccc3f"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Disable motion blur" Note="Removes the camera motion blur by skipping its two fullscreen draws, the same draws the GR2 fork emulator drops for its motion blur option. Saves two fullscreen passes per frame." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="true">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Disable motion blur" Note="Removes the camera motion blur by skipping its two fullscreen draws, the same draws the GR2 fork emulator drops for its motion blur option. Saves two fullscreen passes per frame." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x0143e71f" Value="0f1f440000"/>
             <Line Type="bytes" Address="0x0143ea18" Value="0f1f440000"/>
