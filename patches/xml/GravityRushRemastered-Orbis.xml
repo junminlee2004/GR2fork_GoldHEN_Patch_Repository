@@ -2693,4 +2693,10 @@
             <Line Type="bytes" Address="0x0041491d" Value="0000f0ff"/>
         </PatchList>
     </Metadata>
+    <Metadata Title="Gravity Rush Remastered (Gravity Daze)" Name="Gravity kick camera leveling at any frame rate" Note="Fixes the camera rolling past level after a gravity kick when the game runs above 60 fps. For Vblank above 60 Hz." Author="Junmin Lee" PatchVer="1.0" AppVer="01.00" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x00494308" Value="e9e32500009090909090909090909090"/>
+            <Line Type="bytes" Address="0x004968f0" Value="488b83e8000000c5f96f00c5fa100d311b5501c5f2590d49000000c5f25d0d45000000c4e37904d0aac5ea59dac5ea59d1c5ea59cac5e25cd9c4e37904c8ffc5f259c9c5f258cbc5f251c9c5e8c6d100c5f8c6c284c5e057dbc5f8c6cb0ee9c5d9ffffcc0000704200004040cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"/>
+        </PatchList>
+    </Metadata>
 </Patch>
