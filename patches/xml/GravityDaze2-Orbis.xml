@@ -7242,6 +7242,15 @@
             <Line Type="bytes" Address="0x010e87e0" Value="b001c3"/>
         </PatchList>
     </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Unlock all Dusty Token rewards" Category="Cheats and unlocks" Note="Gives every Dusty Token reward (Upside-Down Man and Traffic Cone photo items, Salute and You There gestures, Work Clothes, School Uniform 1.0 and Shifter 1.0 costumes, Miner's Technique, Fisherman's Recipe and Unlimited Potential talismans) the next time you are in free roam, without changing the Dusty Token count. Each reward arrives once, with its announcement, and stays after the game saves. The Statistics checklist still ticks rewards by token count." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x011792eb" Value="0f8d342c7300"/>
+            <Line Type="bytes" Address="0x011794a6" Value="e8552a7300"/>
+            <Line Type="bytes" Address="0x011794b7" Value="b80a000000"/>
+            <Line Type="bytes" Address="0x01179530" Value="e9482a730090"/>
+            <Line Type="bytes" Address="0x018abf00" Value="31c0498d8c242c5d02000fb71185d20f840f000000ffc04883c12083f80a0f82e6ffffffc3e8d6ffffff83f80a0f8345000000488b051e1764004885c00f8435000000488b40084885c00f842800000083b868040000fe0f841b0000004883b860040000000f840d000000458bbc24a0630200e979d38cffe9b0db8cffffc3410fb7551485d20f8594d68cff488d7db0e9a1d58cff"/>
+        </PatchList>
+    </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Load hidden Levels (ENABLE FIRST)" Category="Debug and hidden levels" Author="illusion" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00845e5f" Value="488d1d02222c01"/>
