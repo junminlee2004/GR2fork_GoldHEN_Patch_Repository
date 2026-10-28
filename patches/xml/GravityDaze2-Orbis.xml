@@ -7144,6 +7144,14 @@
             <Line Type="bytes" Address="0x0124d150" Value="31d24c89e7"/>
         </PatchList>
     </Metadata>
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Shifter 1.0 costume -&gt; Durga" Category="Costumes" Note="Selecting the Shifter 1.0 costume shows Durga's model (ang01) with Kat's moveset. The save keeps Shifter 1.0. With another Shifter 1.0 toggle also on, the later toggle in the list wins." Author="Junmin Lee" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+        <PatchList>
+            <Line Type="bytes" Address="0x01536193" Value="e94899f6fe9090909090909090909090"/>
+            <Line Type="bytes" Address="0x0049fae0" Value="813b6b6974310f8532000000817b04305f62610f8525000000807b08730f851b000000807b09650f8511000000807b0a000f8507000000488d1d28000000be895617044c89ff4889dae8423a1801488d0d110000004839cb0f85030000004889d8e95d660901616e6730315f6261736500"/>
+            <Line Type="bytes" Address="0x013a978c" Value="488d3d6d898d00"/>
+            <Line Type="bytes" Address="0x0124d150" Value="31d24c89e7"/>
+        </PatchList>
+    </Metadata>
     <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="Infinite Gravity Energy" Category="Cheats and unlocks" Author="illusion" PatchVer="1.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00901c26" Value="c5fa10058a68fb00"/>
