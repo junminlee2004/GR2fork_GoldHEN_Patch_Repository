@@ -42,7 +42,7 @@
             <Line Type="bytes" Address="0x0143ef3d" Value="83c23f83c33fc1ea0683e3c00fafda"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="40fps v4.9 (READ NOTES)" Category="Frame rate" Note="40 FPS with a fixed 1/40 game step: the game slows down if it drops below 40 FPS. Use one FPS patch at a time. Set Vblank Frequency to 40. In the launcher it is on the Experimental tab, which only a game&apos;s own settings show: right-click the game &gt; Game-specific Settings... &gt; Create Game-specific Settings from Global Settings (or Configure Game-specific Settings) &gt; Experimental &gt; Vblank Frequency, then Save." Author="Junmin Lee" PatchVer="4.9" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="40fps v5.0 (READ NOTES)" Category="Frame rate" Note="40 FPS with a fixed 1/40 game step: the game slows down if it drops below 40 FPS. Movie audio can play up to 25% faster or 20% slower to stay in sync with the picture on a PC that stutters. Use one FPS patch at a time. Set Vblank Frequency to 40. In the launcher it is on the Experimental tab, which only a game&apos;s own settings show: right-click the game &gt; Game-specific Settings... &gt; Create Game-specific Settings from Global Settings (or Configure Game-specific Settings) &gt; Experimental &gt; Vblank Frequency, then Save." Author="Junmin Lee" PatchVer="5.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00496760" Value="a302f701001500001e003200002300004400350000250000370034000027000037004900002700008501d200002e00005901e300003000003c01c7000034000010004000003600005e012901003b00001902aa01003c000024005900003d0000c6020b02003e0000f300dd00003f0000c1035f02004000000302cd01004400004101f500004500009302ac010048000023037302004a0000da009f00004b000042011501004b0000be000401004c00000d01ea000053000013006400005600001d006800005900005901c400005a0000d700de00005b0000ca00ce00005e00007801de00005e00007c00ec00005e00002c035302005e0000a000d500005f0000"/>
             <Line Type="bytes" Address="0x00496860" Value="d900d9000060000038007b000063000078012901006300001700700000650000be01fb01006700001201cc0000680000b100a300006900002f023703006b00000005c003006b00007200aa00006c00009f00a800007000003f03a60200700000e901790100730000a0028102007400000a02f10100750000e302cf02007500002900890000770000d200d10000780000ad036d0200790000f4025c02007a00000a008100007b000037008b00007e0000f9000d01008100001a01270100810000e702270200810000000454030083000080047603008300000f008f00008900001b009300008b000021009b00008c00006600c800008c0000a400c900008c0000"/>
@@ -1423,6 +1423,8 @@
             <Line Type="bytes" Address="0x018b9b64" Value="920a063f"/>
             <Line Type="bytes" Address="0x018c0d24" Value="0000f041"/>
             <Line Type="bytes" Address="0x018c0d38" Value="0000f041"/>
+            <Line Type="bytes" Address="0x018c5984" Value="cdcc4c3f"/>
+            <Line Type="bytes" Address="0x018c598c" Value="0000a03f"/>
             <Line Type="bytes" Address="0x018c7374" Value="0000f041"/>
             <Line Type="bytes" Address="0x018c7384" Value="0000f041"/>
             <Line Type="bytes" Address="0x01b0fc07" Value="1d818000"/>
@@ -1438,7 +1440,7 @@
             <Line Type="bytes" Address="0x01c1b3d8" Value="907d9eeb2800f560"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="60fps v4.9 (READ NOTES)" Category="Frame rate" Note="60 FPS with a fixed 1/60 game step: the game slows down if it drops below 60 FPS. Use one FPS patch at a time. Set Vblank Frequency to 60. In the launcher it is on the Experimental tab, which only a game&apos;s own settings show: right-click the game &gt; Game-specific Settings... &gt; Create Game-specific Settings from Global Settings (or Configure Game-specific Settings) &gt; Experimental &gt; Vblank Frequency, then Save." Author="Junmin Lee" PatchVer="4.9" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="60fps v5.0 (READ NOTES)" Category="Frame rate" Note="60 FPS with a fixed 1/60 game step: the game slows down if it drops below 60 FPS. Movie audio can play up to 25% faster or 20% slower to stay in sync with the picture on a PC that stutters. Use one FPS patch at a time. Set Vblank Frequency to 60. In the launcher it is on the Experimental tab, which only a game&apos;s own settings show: right-click the game &gt; Game-specific Settings... &gt; Create Game-specific Settings from Global Settings (or Configure Game-specific Settings) &gt; Experimental &gt; Vblank Frequency, then Save." Author="Junmin Lee" PatchVer="5.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00496760" Value="a302f701001500001e003200002300004400350000250000370034000027000037004900002700008501d200002e00005901e300003000003c01c7000034000010004000003600005e012901003b00001902aa01003c000024005900003d0000c6020b02003e0000f300dd00003f0000c1035f02004000000302cd01004400004101f500004500009302ac010048000023037302004a0000da009f00004b000042011501004b0000be000401004c00000d01ea000053000013006400005600001d006800005900005901c400005a0000d700de00005b0000ca00ce00005e00007801de00005e00007c00ec00005e00002c035302005e0000a000d500005f0000"/>
             <Line Type="bytes" Address="0x00496860" Value="d900d9000060000038007b000063000078012901006300001700700000650000be01fb01006700001201cc0000680000b100a300006900002f023703006b00000005c003006b00007200aa00006c00009f00a800007000003f03a60200700000e901790100730000a0028102007400000a02f10100750000e302cf02007500002900890000770000d200d10000780000ad036d0200790000f4025c02007a00000a008100007b000037008b00007e0000f9000d01008100001a01270100810000e702270200810000000454030083000080047603008300000f008f00008900001b009300008b000021009b00008c00006600c800008c0000a400c900008c0000"/>
@@ -2821,6 +2823,8 @@
             <Line Type="bytes" Address="0x018b9b64" Value="920a063f"/>
             <Line Type="bytes" Address="0x018c0d24" Value="0000f041"/>
             <Line Type="bytes" Address="0x018c0d38" Value="0000f041"/>
+            <Line Type="bytes" Address="0x018c5984" Value="cdcc4c3f"/>
+            <Line Type="bytes" Address="0x018c598c" Value="0000a03f"/>
             <Line Type="bytes" Address="0x018c7374" Value="0000f041"/>
             <Line Type="bytes" Address="0x018c7384" Value="0000f041"/>
             <Line Type="bytes" Address="0x01b0fc07" Value="1d818000"/>
@@ -2836,7 +2840,7 @@
             <Line Type="bytes" Address="0x01c1b3d8" Value="907d9eeb3c00f560"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="90fps v4.9 (READ NOTES)" Category="Frame rate" Note="90 FPS with a fixed 1/90 game step: the game slows down if it drops below 90 FPS. Use one FPS patch at a time. Set Vblank Frequency to 90. In the launcher it is on the Experimental tab, which only a game&apos;s own settings show: right-click the game &gt; Game-specific Settings... &gt; Create Game-specific Settings from Global Settings (or Configure Game-specific Settings) &gt; Experimental &gt; Vblank Frequency, then Save." Author="Junmin Lee" PatchVer="4.9" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="90fps v5.0 (READ NOTES)" Category="Frame rate" Note="90 FPS with a fixed 1/90 game step: the game slows down if it drops below 90 FPS. Movie audio can play up to 25% faster or 20% slower to stay in sync with the picture on a PC that stutters. Use one FPS patch at a time. Set Vblank Frequency to 90. In the launcher it is on the Experimental tab, which only a game&apos;s own settings show: right-click the game &gt; Game-specific Settings... &gt; Create Game-specific Settings from Global Settings (or Configure Game-specific Settings) &gt; Experimental &gt; Vblank Frequency, then Save." Author="Junmin Lee" PatchVer="5.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00496760" Value="a302f701001500001e003200002300004400350000250000370034000027000037004900002700008501d200002e00005901e300003000003c01c7000034000010004000003600005e012901003b00001902aa01003c000024005900003d0000c6020b02003e0000f300dd00003f0000c1035f02004000000302cd01004400004101f500004500009302ac010048000023037302004a0000da009f00004b000042011501004b0000be000401004c00000d01ea000053000013006400005600001d006800005900005901c400005a0000d700de00005b0000ca00ce00005e00007801de00005e00007c00ec00005e00002c035302005e0000a000d500005f0000"/>
             <Line Type="bytes" Address="0x00496860" Value="d900d9000060000038007b000063000078012901006300001700700000650000be01fb01006700001201cc0000680000b100a300006900002f023703006b00000005c003006b00007200aa00006c00009f00a800007000003f03a60200700000e901790100730000a0028102007400000a02f10100750000e302cf02007500002900890000770000d200d10000780000ad036d0200790000f4025c02007a00000a008100007b000037008b00007e0000f9000d01008100001a01270100810000e702270200810000000454030083000080047603008300000f008f00008900001b009300008b000021009b00008c00006600c800008c0000a400c900008c0000"/>
@@ -4219,6 +4223,8 @@
             <Line Type="bytes" Address="0x018b9b64" Value="920a063f"/>
             <Line Type="bytes" Address="0x018c0d24" Value="0000f041"/>
             <Line Type="bytes" Address="0x018c0d38" Value="0000f041"/>
+            <Line Type="bytes" Address="0x018c5984" Value="cdcc4c3f"/>
+            <Line Type="bytes" Address="0x018c598c" Value="0000a03f"/>
             <Line Type="bytes" Address="0x018c7374" Value="0000f041"/>
             <Line Type="bytes" Address="0x018c7384" Value="0000f041"/>
             <Line Type="bytes" Address="0x01b0fc07" Value="1d818000"/>
@@ -4234,7 +4240,7 @@
             <Line Type="bytes" Address="0x01c1b3d8" Value="907d9eeb5a00f560"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="120fps v4.9 (READ NOTES)" Category="Frame rate" Note="120 FPS with a fixed 1/120 game step: the game slows down if it drops below 120 FPS. Use one FPS patch at a time. Set Vblank Frequency to 120. In the launcher it is on the Experimental tab, which only a game&apos;s own settings show: right-click the game &gt; Game-specific Settings... &gt; Create Game-specific Settings from Global Settings (or Configure Game-specific Settings) &gt; Experimental &gt; Vblank Frequency, then Save." Author="Junmin Lee" PatchVer="4.9" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="120fps v5.0 (READ NOTES)" Category="Frame rate" Note="120 FPS with a fixed 1/120 game step: the game slows down if it drops below 120 FPS. Movie audio can play up to 25% faster or 20% slower to stay in sync with the picture on a PC that stutters. Use one FPS patch at a time. Set Vblank Frequency to 120. In the launcher it is on the Experimental tab, which only a game&apos;s own settings show: right-click the game &gt; Game-specific Settings... &gt; Create Game-specific Settings from Global Settings (or Configure Game-specific Settings) &gt; Experimental &gt; Vblank Frequency, then Save." Author="Junmin Lee" PatchVer="5.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00496760" Value="a302f701001500001e003200002300004400350000250000370034000027000037004900002700008501d200002e00005901e300003000003c01c7000034000010004000003600005e012901003b00001902aa01003c000024005900003d0000c6020b02003e0000f300dd00003f0000c1035f02004000000302cd01004400004101f500004500009302ac010048000023037302004a0000da009f00004b000042011501004b0000be000401004c00000d01ea000053000013006400005600001d006800005900005901c400005a0000d700de00005b0000ca00ce00005e00007801de00005e00007c00ec00005e00002c035302005e0000a000d500005f0000"/>
             <Line Type="bytes" Address="0x00496860" Value="d900d9000060000038007b000063000078012901006300001700700000650000be01fb01006700001201cc0000680000b100a300006900002f023703006b00000005c003006b00007200aa00006c00009f00a800007000003f03a60200700000e901790100730000a0028102007400000a02f10100750000e302cf02007500002900890000770000d200d10000780000ad036d0200790000f4025c02007a00000a008100007b000037008b00007e0000f9000d01008100001a01270100810000e702270200810000000454030083000080047603008300000f008f00008900001b009300008b000021009b00008c00006600c800008c0000a400c900008c0000"/>
@@ -5617,6 +5623,8 @@
             <Line Type="bytes" Address="0x018b9b64" Value="920a063f"/>
             <Line Type="bytes" Address="0x018c0d24" Value="0000f041"/>
             <Line Type="bytes" Address="0x018c0d38" Value="0000f041"/>
+            <Line Type="bytes" Address="0x018c5984" Value="cdcc4c3f"/>
+            <Line Type="bytes" Address="0x018c598c" Value="0000a03f"/>
             <Line Type="bytes" Address="0x018c7374" Value="0000f041"/>
             <Line Type="bytes" Address="0x018c7384" Value="0000f041"/>
             <Line Type="bytes" Address="0x01b0fc07" Value="1d818000"/>
@@ -5632,7 +5640,7 @@
             <Line Type="bytes" Address="0x01c1b3d8" Value="907d9eeb7800f560"/>
         </PatchList>
     </Metadata>
-    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="144fps v4.9 (READ NOTES)" Category="Frame rate" Note="144 FPS with a fixed 1/144 game step: the game slows down if it drops below 144 FPS. Use one FPS patch at a time. Set Vblank Frequency to 144. In the launcher it is on the Experimental tab, which only a game&apos;s own settings show: right-click the game &gt; Game-specific Settings... &gt; Create Game-specific Settings from Global Settings (or Configure Game-specific Settings) &gt; Experimental &gt; Vblank Frequency, then Save." Author="Junmin Lee" PatchVer="4.9" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
+    <Metadata Title="Gravity Rush 2 (Gravity Daze 2)" Name="144fps v5.0 (READ NOTES)" Category="Frame rate" Note="144 FPS with a fixed 1/144 game step: the game slows down if it drops below 144 FPS. Movie audio can play up to 25% faster or 20% slower to stay in sync with the picture on a PC that stutters. Use one FPS patch at a time. Set Vblank Frequency to 144. In the launcher it is on the Experimental tab, which only a game&apos;s own settings show: right-click the game &gt; Game-specific Settings... &gt; Create Game-specific Settings from Global Settings (or Configure Game-specific Settings) &gt; Experimental &gt; Vblank Frequency, then Save." Author="Junmin Lee" PatchVer="5.0" AppVer="01.11" AppElf="eboot.bin" isEnabled="false">
         <PatchList>
             <Line Type="bytes" Address="0x00496760" Value="a302f701001500001e003200002300004400350000250000370034000027000037004900002700008501d200002e00005901e300003000003c01c7000034000010004000003600005e012901003b00001902aa01003c000024005900003d0000c6020b02003e0000f300dd00003f0000c1035f02004000000302cd01004400004101f500004500009302ac010048000023037302004a0000da009f00004b000042011501004b0000be000401004c00000d01ea000053000013006400005600001d006800005900005901c400005a0000d700de00005b0000ca00ce00005e00007801de00005e00007c00ec00005e00002c035302005e0000a000d500005f0000"/>
             <Line Type="bytes" Address="0x00496860" Value="d900d9000060000038007b000063000078012901006300001700700000650000be01fb01006700001201cc0000680000b100a300006900002f023703006b00000005c003006b00007200aa00006c00009f00a800007000003f03a60200700000e901790100730000a0028102007400000a02f10100750000e302cf02007500002900890000770000d200d10000780000ad036d0200790000f4025c02007a00000a008100007b000037008b00007e0000f9000d01008100001a01270100810000e702270200810000000454030083000080047603008300000f008f00008900001b009300008b000021009b00008c00006600c800008c0000a400c900008c0000"/>
@@ -7013,6 +7021,8 @@
             <Line Type="bytes" Address="0x018b9b64" Value="920a063f"/>
             <Line Type="bytes" Address="0x018c0d24" Value="0000f041"/>
             <Line Type="bytes" Address="0x018c0d38" Value="0000f041"/>
+            <Line Type="bytes" Address="0x018c5984" Value="cdcc4c3f"/>
+            <Line Type="bytes" Address="0x018c598c" Value="0000a03f"/>
             <Line Type="bytes" Address="0x018c7374" Value="0000f041"/>
             <Line Type="bytes" Address="0x018c7384" Value="0000f041"/>
             <Line Type="bytes" Address="0x01b0fc07" Value="1d818000"/>
